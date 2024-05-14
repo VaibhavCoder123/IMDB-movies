@@ -1,0 +1,721 @@
+No_of_movies,       Name,Year,Duration,Genre,Rating,Votes,Director,Actor 1,Actor 2,Actor 3
+1,                  ,,,Drama,,2,J.S. Randhawa,Manmauji,Birbal,Rajendra Bhatia
+2,                  #Gadhvi (He thought he was Gandhi),2019,109,Drama,,7,Gaurav Bakshi,Rasika Dugal,Vivek Ghamande,Arvind Jangid
+3,                  #Homecoming,2021,90,"Drama, Musical",7,8,Soumyajit Majumdar,Sayani Gupta,Plabita Borthakur,Roy Angana
+4,                  #Yaaram,2019,110,"Comedy, Romance",,50,Ovais Khan,Prateik,Ishita Raj,Siddhant Kapoor
+5,                  ...And Once Again,2010,105,Drama,4.4,35,Amol Palekar,Rajat Kapoor,Rituparna Sengupta,Antara Mali
+6,                  ...Aur Pyaar Ho Gaya,1997,147,"Comedy, Drama, Musical",,50,Rahul Rawail,Bobby Deol,Aishwarya Rai Bachchan,Shammi Kapoor
+7,                  ...Yahaan,2005,142,"Drama, Romance, War",4.7,827,Shoojit Sircar,Jimmy Sheirgill,Minissha Lamba,Yashpal Sharma
+8,                  .in for Motion,2008,59,Documentary,7.4,1086,Anirban Datta,        -------,        -------,        -------
+9,                  ?: A Question Mark,2012,82,"Horror, Mystery, Thriller",,50,Allyson Patel,Yash Dave,Muntazir Ahmad,Kiran Bhatia
+10,                 @Andheri,2014,116,"Action, Crime, Thriller",5.6,326,Biju Bhaskar Nair,Augustine,Fathima Babu,Byon
+11,                 1:1.6 An Ode to Lost Love,2004,96,Drama,4,11,Madhu Ambat,Rati Agnihotri,Gulshan Grover,Atul Kulkarni
+12,                 1:13:7 Ek Tera Saath,2016,120,Horror,6.2,17,Arshad Siddiqui,Pankaj Berry,Anubhav Dhir,Hritu Dudani
+13,                 100 Days,1991,161,"Horror, Romance, Thriller",5.9,59,Partho Ghosh,Jackie Shroff,Madhuri Dixit,Javed Jaffre
+14,                 100% Love,2012,166,"Comedy, Drama, Romance",6.5,983,Rabi Kinagi,Jeet,Koyel Mallick,Sujoy Ghosh
+15,                 101 Ratein,1990,,Thriller,5.7,512,Harish,Saraswati,Disco Shanti,                  -----                        
+16,                 102 Not Out,2018,102,"Comedy, Drama",,50,Umesh Shukla,Amitabh Bachchan,Rishi Kapoor,Vijay Raaz
+17,                 108 Limited,,,        -------,7.4,6619,Anand Anddy,Vijay Raaz,Sanjay Mishra,Brahmanandam
+18,                 108 Teerthyatra, ,,"Comedy, Drama, Fantasy",,50,Rajpati,Pravin Anand,Nayan Bhatt,Jeetu
+19,                 10ml LOVE,2010,87,"Comedy, Drama, Romance",,50,Sharat Katariya,Neil Bhoopalam,Anusha Bose,Manu Rishi Chadha
+20,                 11 O'Clock,1948,,        -------,6.3,162,Homi Wadia,Aftab,Sayani Atish,Austin Ki Bachchi
+21,                 12 Bulbule,2021,,"Comedy, Drama, Family",,50,Jagat Joon,Sonu Sonkar,Sunita Verman,Anubhav Dixit
+22,                 12 O'Clock,1958,132,"Crime, Drama, Mystery",,50,Pramod Chakravorty,Guru Dutt,Waheeda Rehman,Shashikala
+23,                 12 O'Clock,2021,105,"Horror, Thriller",7.2,72,Ram Gopal Varma,Mithun Chakraborty,Makrand Deshpande,Dalip Tahil
+24,                 12 Years,,,Biography,4.4,63,Sohail Tatari,                  -----                        ,                  -----                        ,                  -----                        
+25,                 124a,2021,,Documentary,,50,Varrun Sukhraj,                  -----                        ,                  -----                        ,                  -----                        
+26,                 127 B,2017,116,"Comedy, Horror",,50,Seshu Kmr,Mast Ali,Aziz Naser,Heena Shaik
+27,                 13 May Gulaabi Nagar,2010,,Action,6.6,26,N.K. Pareek,Nirmal Pandey,Khushi Rajpoot,Raj Singh Verma
+28,                 13 Tribute of Love,2020,66,Drama,,50,Rahul Tiwari,Rahul Tiwari Adhiyari,Anil Arora,Asima Bhatt
+29,                 13B: Fear Has a New Address,2009,146,"Drama, Horror, Mystery",,50,Vikram K. Kumar,Madhavan,Neetu Chandra,Poonam Dhillon
+30,                 14 Phere,2021,,Comedy,7.3,6329,Devanshu Singh,Vikrant Massey,Kriti Kharbanda,Gauahar Khan
+31,                 15 Park Avenue,2005,116,Drama,,50,Aparna Sen,Shabana Azmi,Konkona Sen Sharma,Rahul Bose
+32,                 150 Seconds Ago,2002,112,        -------,7.1,1002,Batul Mukhtiar,                  -----                        ,        -------,        -------
+33,                 15th August,1993,168,Drama,,50,Vicky Ranawat,Ronit Roy,Tisca Chopra,Shakti Kapoor
+34,                 ,2002,158,"Action, Thriller",5.6,0,Mani Shankar,Milind Soman,Danny Denzongpa,Gulshan Grover
+35,                 ,2014,126,Action,6.9,1235,Mohibul Haque,Rehal Khan,Gulshan Grover,Mukesh Tiwari
+36,                 ,1946,,"Drama, History",3.5,10,Mohan Sinha,Nigar Sultana,Suraiya,Menaka Devi
+37,                 19 Revolutions,2004,94,Drama,5,8,Sridhar Reddy,Tarun Arora,Gulshan Grover,Vinay Pandey
+38,                 ,,,"Drama, History, Sport",4.5,16,Nikkhil Advani,John Abraham,        -------,        -------
+39,                 ,2008,138,"Horror, Mystery, Romance",,50,Vikram Bhatt,Rajniesh Duggall,Adah Sharma,Anjori Alagh
+40,                 1920 London,2016,120,"Horror, Mystery",6.4,3100,Dharmendra Suresh Desai,Sharman Joshi,Meera Chopra,Vishal Karwal
+41,                 1920: Evil Returns,2012,124,"Drama, Horror, Romance",4.1,1559,Bhushan Patel,Vicky Ahuja,Tia Bajpai,Tarakesh Chauhan
+42,                 ,2018,144,"Horror, Mystery, Romance",4.8,1811,Vikram Bhatt,Zareen Khan,Karan Kundra,Vikram Bhatt
+43,                 1942: A Love Story,1994,157,"Action, Drama, History",4.5,1069,Vidhu Vinod Chopra,Anil Kapoor,Jackie Shroff,Manisha Koirala
+44,                 ,2007,136,"Action, Drama, War",7.2,3223,Amrit Sagar,Manoj Bajpayee,Ravi Kishan,Deepak Dobriyal
+45,                 1978: A Teen Night Out,2019,107,Thriller,8.1,1892,Aziz Zee,Abuzar Akhtar,Apurva Godbole,Vaishnavi Kadam
+46,                 1982 - A Love Marriage,2017,113,Comedy,4,20,Prashant Gore,Amitkumar Sharma,Omna,Rita Agarwal
+47,                 19th January,2014,,Drama,5.5,106,Sanjay Amar,Mumtaz Ahmed,Bidita Bag,Madhuri Bhatia
+48,                 2 Band Radio,2019,,Comedy,7.3,16,Saki Shah,Bilal Ahamad Bhagat,Neelu Dogra,Rahat Kazmi
+49,                 2 GB Ki Life,,,Drama,,50,        -------,        -------,        -------,        -------
+50,                 2 Little Indians,2013,,"Comedy, Family",,50,Ravi Bhatia,Ravi Bhatia,Ronak Bhatia,Kamal Chopra
+51,                 2 Nights in Soul Valley,2012,80,"Adventure, Horror, Mystery",5.6,14,Harish Sharma,Hemant Pandey,Sumeet Sharma,Sumeet Sharma
+52,                 ,2003,122,"Action, Crime, Thriller",6.8,21,Sunil Tiwari,Ashutosh Rana,Rocky Verma,Saadhika
+53,                 2 Piece,2005,,Drama,5,33,Kishan Shah,Ramesh Goyal,Satnam Kaur,Anil Nagrath
+54,                 2 States,2014,149,"Comedy, Drama, Romance",,50,Abhishek Varman,Arjun Kapoor,Alia Bhatt,Amrita Singh
+55,                 ,2018,148,"Action, Sci-Fi",6.9,24034,S. Shankar,Rajinikanth,Akshay Kumar,Amy Jackson
+56,                 2001: Do Hazaar Ek,1998,149,"Crime, Mystery, Thriller",6.2,21938,Raj N. Sippy,Jackie Shroff,Dimple Kapadia,Tabu
+57,                 2006 Varanasi: The Untold,2018,,Drama,3.5,112,Aryeman Ramsay,Mukul Dev,Rahul Dev,Ravi Kishan
+58,                 2007 the last encounter,2018,,Drama,,50,Partha Sarkar,Bidita Bag,Sameer Dharmadhikari,Jatin Goswami
+59,                 2016 the End,2017,130,Comedy,,50,Jaideep Chopra,Divyendu Sharma,Kiku Sharda,Harshad Chopda
+60,                 21: Battle of Saragarhi,,,War,6.1,94,Rajkumar Santoshi,Randeep Hooda,Vikramjeet Virk,Nitin Chauhan
+61,                 22 Days,2018,124,Thriller,,50,Shivam Tiwari,Rahul Dev,Shivam Tiwari,Sophia Singh
+62,                 22 June 1897,1979,121,"Drama, History",6.1,8,Jayoo Patwardhan,Nachiket Patwardhan,Sadashiv Amrapurkar,Udayan Dixit
+63,                 22 Yards,2019,126,Sport,7.7,52,Mitali Ghoshal,Barun Sobti,Amartya Ray,Rajit Kapoor
+64,                 23rd March 1931: Shaheed,2002,188,"Biography, Drama, History",6.1,361,Guddu Dhanoa,Bobby Deol,Sunny Deol,Amrita Singh
+65,                 24 Ghante,1998,,Thriller,5.1,642,Tinnu Anand,Bharat Kapoor,Goga Kapoor,Amrit Pal
+66,                 25th July,1951,,        -------,,50,Chitra Mitra,        -------,        -------,        -------
+67,                 ,1956,,        -------,7.6,5,Ramesh Saigal,Ajit,        -------,        -------
+68,                 26th January,1956,,Drama,6.6,7,Ramesh Saigal,Ajit,Nalini Jaywant,Leela Mishra
+69,                 26th July at Barista,2008,,Drama,,50,Mohan Sharma,Ajita,Himani Chawla,Sumeet Chawla
+70,                 27 Down,1974,115,Drama,3.1,32,Awtar Krishna Kaul,Sudhir Dalvi,Rakhee Gulzar,Sadhu Meher
+71,                 3 AM: A Paranormal Experience,2014,103,"Horror, Romance",6.9,194,Vishal Mahadkar,Salil Acharya,Kavin Dave,Jason Matthew Ethier
+72,                 3 Bachelors,2012,114,"Comedy, Romance",5,514,Ajai Sinha,Sharman Joshi,Negar Khan,Nigaar Khan
+73,                 3 Days 4 Nights in Bihar,2020,,Comedy,3.3,165,Abhishek Dogra,Jackky Bhagnani,Sharman Joshi,Ruslaan Mumtaz
+74,                 3 Deewarein,2003,115,"Crime, Drama",,50,Nagesh Kukunoor,Naseeruddin Shah,Jackie Shroff,Juhi Chawla
+75,                 3 Dev,2019,122,Comedy,7.8,2322,Ankush Bhatt,Karan Singh Grover,Ravi Dubey,Kunaal Roy Kapur
+76,                 3 Idiots,2009,170,"Comedy, Drama",6.9,35,Rajkumar Hirani,Aamir Khan,Madhavan,Mona Singh
+77,                 3 Nights 4 Days,2009,,"Drama, Romance",8.4,357889,Devang Dholakia,Sameer Aftab,Hrishitaa Bhatt,Anuj Sahani
+78,                 3 Shyaane,2020,,Comedy,5.2,0,Anees Barudwale,Asrani,Rakesh Bedi,Priyanshu Chatterjee
+79,                 3 Storeys,2018,100,Drama,,50,Arjun Mukerjee,Aisha Ahmed,Tarun Anand,Richa Chadha
+80,                 3.0 Megapixel,2015,99,"Adventure, Drama",6.9,358,Divakar Ghodake,Seema Azmi,Meenal Chirankar,Pooja Kasekar
+81,                 30 Days,2004,,Horror,4.3,6,Ravi Sinha,Abhay Bhargava,Milind Gunaji,Dinesh Hingoo
+82,                 30 Minutes,2016,,Thriller,5,14,Yesudas,Rana Jung Bahadur,Hrishitaa Bhatt,Shiva Kumar
+83,                 31st October,2015,109,"Action, Drama, History",4.8,26,Shivaji Lotan Patil,Soha Ali Khan,Lakha Lakhwinder Singh,Nagesh Bhonsle
+84,                 ,2009,,Thriller,5.8,238,Suryaprakash Lakkoju,Ragesh Asthana,Iqbal Azad,Ahsaas Channa
+85,                 36 China Town,2006,140,"Comedy, Mystery, Thriller",4.6,9,Abbas Alibhai Burmawalla,Mastan Alibhai Burmawalla,Akshaye Khanna,Kareena Kapoor
+86,                 36 Chowringhee Lane,1981,122,"Drama, Romance",5.7,4373,Aparna Sen,Jennifer Kendal,Dhritiman Chatterjee,Debashree Roy
+87,                 36 Ghante,1974,,"Action, Crime, Drama",7.5,392,Raj Tilak,Raaj Kumar,Mala Sinha,Sunil Dutt
+88,                 376 D,2020,128,"Crime, Thriller",6.7,128,Gunveen Kaur,Robin Sikarwar,Vivek Kumar,Deeksha Joshi
+89,                 377 AbNormal,2019,93,Drama,5.7,252,Faruk Kabir,Muntazir Ahmad,Shashank Arora,Mohd. Zeeshan Ayyub
+90,                 3D Saamri,1985,102,Horror,5.6,93,Shyam Ramsay,Tulsi Ramsay,Rajan Sippy,Arti Gupta
+91,                 3G: A Killer Connection,2013,125,"Horror, Sci-Fi, Thriller",5.6,80,Sheershak Anand,Shantanu Ray Chhibber,Neil Nitin Mukesh,Sonal Chauhan
+92,                 3rd EYE,2019,145,Horror,3.6,1128,Sanjay Niranjan,Deepak Bhatia,Mukul Dev,Sakshi Dwivedi
+93,                 3rd November,2016,,Horror,6.3,6,Vasant Narkar,Minakshi Bhagat,Pragya Chahar,Kabir Khan
+94,                 4 Sum,,96,"Crime, Drama, Thriller",,50,Neeraj Gwal,Pranav Chandrakar,Yashwant Anand Gupta,Neeraj Uke
+95,                 404: Error Not Found,2011,121,"Drama, Mystery, Thriller",,50,Prawaal Raman,Rajvvir Aroraa,Imaaduddin Shah,Nishikant Kamat
+96,                 417 Miles,2016,75,Drama,7.3,2548,Mainak Dhar,Marilia Colturato,Kyara Jacob,Kyara Ralella Jacob
+97,                 42 Kms.,2009,,"Drama, Sport",4.8,9,Nisha Chainani,Mandira Bedi,Bikram Saluja,Sammir Dattani
+98,                 498A-The Wedding Gift,2012,113,"Drama, Family, Musical",3.9,14,Suhaib Ilyasi,Srishti Gautam,Farida Jalal,Supriya Karnik
+99,                 4pm on the Court,2011,115,Sport,7.8,21,Shine Krishna,Ashish Bhatia,Naveen Kaushik,Vinay Sharma
+100,                5 Ghantey Mien 5 Crore,2012,111,Thriller,,50,Faisal Saif,Nassar Abdulla,Shawar Ali,Rashid Khan
+101,                5 Rifles,1974,134,"Action, Comedy",5.7,75,I.S. Johar,Rakesh Khanna,Rajesh Khanna,Ambika Johar
+102,                5 Rifles,2001,,Action,6.5,36,Hemant Birje,Anu Kashyap,Raza Murad,Paintal
+103,                5 Rupees,2018,,        -------,,40,Piyush Panjuani,Shabana Azmi,Yohaan Panjuani,        -------
+104,                50 Lakh,2007,,"Comedy, Thriller",,40,Chandra Sekhar Yeleti,Pawan Malhotra,Mohit Chadha,Veerendra Chauhan
+105,                500 Ka Note,2002,,Thriller,6.5,82,Tinnu Anand,Birbal,Chandrashekhar,Siddharth Dhawan
+106,                5ters: Castle of Dark Master,2011,110,"Action, Adventure, Fantasy",,40,G. Venugopal,Akash,Avinash,Gagan
+107,                6.40 PM,1967,,        -------,4.6,19,Mani Kaul,        -------,        -------,        -------
+108,                6387 Meters Black Peak,2020,85,Documentary,5.4,5,Kovid Mittal,Kovid Mittal,        -------,        -------
+109,                64 Kaam Kalayen,2002,,Thriller,,40,Hemant Birje,Ankush Mohite,Kirti Rawal,        -------
+110,                6-5=2,2014,104,Horror,,40,Bharat Jain,Prashantt Guptha,Gaurav Paswala,Gaurav Kothari
+111,                68 Pages,2007,92,Drama,4.2,171,Sridhar Rangayan,Mouli Ganguly,Joy Sengupta,Jayati Bhatia
+112,                69 Opposites Attract,2011,96,Comedy,6.2,31,Amit r Agarwal,Amit r Agarwal,Kiran Kaur,        -------
+113,                69 Reality in Us,,,"Drama, Romance, Thriller",,40,Samir Khan,        -------,        -------,        -------
+114,                7 1/2 Phere: More Than a Wedding,2005,136,"Comedy, Drama",,40,Ishaan Trivedi,Juhi Chawla,Irrfan Khan,Manoj Pahwa
+115,                7 Bijliyaan,1988,126,Action,5.3,281,Raju Saigal,Tina Ambani,Shoma Anand,Krishan Dhawan
+116,                7 Days,1995,,"Action, Drama",5,7,Sunil Kumar,Arvind Singh,Channa Ruparel,Avtar Gill
+117,                7 Hours to Go,2016,115,"Crime, Thriller",3.4,10,Saurabh Varma,Sandeepa Dhar,Natasa Stankovic,Shiv Panditt
+118,                7 Islands and a Metro,2006,100,Documentary,5.7,398,Dutta Madhusree,Vibha Chhibber,Harish Khanna,Om Prakash
+119,                7 Khoon Maaf,2011,137,"Drama, Mystery, Thriller",6.2,10,Vishal Bhardwaj,Priyanka Chopra Jonas,Vivaan Shah,Neil Nitin Mukesh
+120,                7 Saal Baad,1987,127,"Drama, Horror, Musical",6.1,0,S.U. Syed,Sharmila Tagore,Suresh Oberoi,Navin Nischol
+121,                ,2019,120,Thriller,4.1,34,Shravankumar Tiwari,Mohan Agashe,Raayo S. Bakhirta,Divya Dutta
+122,                72 Hours: Martyr Who Never Died,2019,130,"Action, Biography, Drama",5.3,449,Avinash Dhyani,Avinash Dhyani,Yeshi Dema,Alka Amin
+123,                777 Charlie,,136,"Adventure, Comedy, Drama",5.3,249,Kiranraj K,Rakshit Shetty,Charlie,Sangeetha Sringeri
+124,                7th Villa,2018,125,Horror,,40,Ajay Arak,Meenal Chauhan,Mansi Sharma,Vinit
+125,                8 PM: A Murder Mystery,2008,,Mystery,,40,Sunil Bhojwani,Krishna Abhishek,Ramesh Bachwani,Dravika
+126,                8 x 10 Tasveer,2009,122,"Action, Fantasy, Mystery",,40,Nagesh Kukunoor,Akshay Kumar,Ayesha Takia,Javed Jaffrey
+127,                8119 Miles,2021,115,"Adventure, Drama, Mystery",5.4,5459,Joe Eshwar,Ranji Vijayan,Kuriakose Oonnittan,Guy Bleyaert
+128,                '83,2021,150,"Biography, Drama, History",6.6,21,Kabir Khan,Ranveer Singh,Deepika Padukone,Tahir Raj Bhasi
+129,                88 Antop Hill,2003,119,"Mystery, Thriller",,40,Kushan Nandy,Atul Kulkarni,Rahul Dev,Suchitra Pilla
+130,                9 O' Clock,2017,124,Action,4.7,66,Amrit Raj Thakur,Arun Bakshi,Ajeet Goswami,Rohit Rajawa
+131,                9 Roads 2 Peace,,,Adventure,5.3,9,Virendra Rathore,        -------,        -------,        ------
+132,                9 to 12,2011,115,"Drama, Musical, Thriller",,40,Ashok Patil,Nimisha Baby,Venkatesh Chakravarthy,Kishore Kumar G
+133,                ,2009,135,"Comedy, Crime, Drama",,40,Krishna D.K.,Raj Nidimoru,Kunal Khemu,Boman Irani
+134,                99 Songs,2019,128,"Musical, Romance",7.3,2767,Vishwesh Krishnamoorthy,Ehan Bhat,Edilsy Vargas,Tenzing Dalha
+135,                99.9 FM,2005,90,"Crime, Drama",7.4,1901,Sanjay Bhatia,Shawar Ali,Rajkumar Kanojia,Jai Nagra
+136,                A Ballad of Maladies,2016,86,"Documentary, Music",4.8,38,Sarvnik Kaur,Tushar Madhav,        -------,        -------
+137,                A Ballad of Maladies,2016,86,"Documentary, History, Music",,40,Sarvnik Kaur,Tushar Madhav,        -------,        -------
+138,                A Billion Colour Story,2016,105,Drama,,40,Padmakumar Narasimhamurthy,Dhruva Padmakumar,Gaurav Sharma,Vasuki
+139,                A Biopic from the Film Industry,2019,,Drama,8.1,412,Sarkar Sahith,Suman Rana,Hari Vishnu,        -------
+140,                A Call from the Past,2016,76,"Drama, Fantasy, Mystery",,40,Ajay Jain,Vidhu Rashmi Jain,Ashok Banthia,Bharat Ratna Bhargava
+141,                A Cold Plan,2021,,Thriller,,40,Sanjay Raj,Ansh Chaturvedi,Jigyasa Tiwari,Anurag Bhardwaj
+142,                A Daughter's Dream,2014,,"Drama, Family, Sport",,40,Manto Pashupatinath,Bhavana Singh Chauhan,Akhilendra Mishra,Abhilash Narain
+143,                A Daughter's Tale PANKH,2017,145,Drama,,40,Premraaj,Rajinder Verma,Sunil Lahri,Nishigandha Wad
+144,                A Death in the Gunj,2016,110,"Drama, Thriller",6.3,10,Konkona Sen Sharma,Kalki Koechlin,Vikrant Massey,Gulshan Devaiah
+145,                A Dream Document,2016,70,Documentary,7.5,4637,Rupak Das,        -------,        -------,        -------
+146,                A Far Afternoon: a Painted Saga by Krishen Khanna,2015,72,"Documentary, Biography",,40,Sruti Harihara Subramanian,        -------,        -------,        -------
+147,                A Film by Aravind,2005,150,"Horror, Mystery",7.7,10,Sekhar Suri,Sherlyn Chopra,Rajeev Kanakala,Richard Rishi
+148,                A Flat,2010,103,"Drama, Horror, Romance",6.8,179,Hemant Madhukar,Jimmy Sheirgill,Sanjay Suri,Hazel Croney
+149,                A Flying Jatt,2016,151,"Action, Adventure, Comedy",4.5,202,Remo D'Souza,Tiger Shroff,Jacqueline Fernandez,Nathan Jones
+150,                A Game Called Relationship,2020,109,"Comedy, Romance",3,4145,Vivek Sharma,Mandy Takhar,Vivek Sharma,Sumit Suri
+151,                A Gentleman,2017,145,"Action, Comedy",6.3,181,Krishna D.K.,Raj Nidimoru,Sidharth Malhotra,Jacqueline Fernandez
+152,                A Gift of Love: Sifar,2019,95,"Drama, Romance",6.2,5227,Dhruv Sachdev,Sanjay Deyali,Sudha Chandran,Anang Desai
+153,                A Handful of Grain,1959,92,Drama,8,33,Mehboob Khan,        -------,        -------,        -------
+154,                A Journey of Samyak Buddha,2013,127,Drama,,40,Praveen Damle,Geeta Agrawal,Jyoti Bagat,Gautam Dhengare
+155,                A Mermaid Called Aida,1996,52,Documentary,7.3,17,Riyad Vinci Wadia,Aida Banaji,Ajay Mehta,        -------
+156,                A Mistake (Ek Galti),2021,,Thriller,6.4,7,Chand Mehta,Hrishitaa Bhatt,Gulshan Pandey,Jimmy Shergil
+157,                A New Love Ishtory,2013,140,Romance,,40,John Mathew Matthan,Raqesh Bapat,Gurpreet Kaur Chadha,Smita Jaykar
+158,                A Night in Calcutta,1970,,Drama,6,80,Amrit Mahendra,Master Bhagwan,Simi Garewal,Jagdev
+159,                A Rape Song,2019,75,"Crime, Drama",,40,Jacob Paul,Uday Bhan Mourya,Anjali Ujawane,        -------
+160,                A Rifle and a Bag,2020,89,Documentary,,40,Cristina Hanes,Isabella Rinaldi,Arya Rothe,        -------
+161,                A Scandall,2016,112,Thriller,6.8,15,Ishaan Trivedi,Johnny Baweja,Reeth Mazumder-Roberts,Manav Kaul
+162,                A Separate Sky,2021,,Drama,3.1,142,Raajhorshee De,Sayan Chakraborty,Sudiptaa Chakraborty,Ranita Das
+163,                A Sketch Killer: Who's Next,1997,,Thriller,,40,Vinod Alva,Kalyan Kumar,Raghuvaran,        -------
+164,                A Small Family,1976,,Documentary,,40,Fali Bilimoria,        -------,        -------,        -------
+165,                A Song for No One,,,"Comedy, Drama, Music",,40,Arturo Alanis Garza,Kavya Trehan,Victoria Kuhne,        -------
+166,                A Story of a Call Girl,2000,,Thriller,,40,Teerat Singh,Pinky Chinoy,Ali Khan,Anjali Kolhapuri
+167,                A Strange Love Story,2011,,Drama,,40,Tarique Khan,Sahil Seth,Gunjan Bakshi,Snehal Dabi
+168,                A Sublime Love Story: Barsaat,2005,143,"Drama, Romance",3.8,0,Suneel Darshan,Bobby Deol,Bipasha Basu,Priyanka Chopra Jonas
+169,                A Suitable Girl,2017,90,Documentary,3.8,627,Sarita Khurana,Smriti Mundhra,Sima Taparia,        -------
+170,                A Thin Line,2019,104,Drama,6.9,337,Vierendrra Lalit,Trivikram Mattoo,Rahul Roy,Akansha Shivhare
+171,                A Thursday,2021,,"Drama, Thriller",7.9,24,Behzad Khambata,Dimple Kapadia,Yami Gautam,Neha Dhupia
+172,                A Treasure in the Snow,2002,,Documentary,,40,Goutam Ghose,        -------,        -------,        -------
+173,                A Twist of Date,2017,110,"Comedy, Horror, Mystery",6.9,8,Kashmera Shah,Kashmera Shah,        -------,        -------
+174,                A Wednesday,2008,104,"Action, Crime, Drama",,40,Neeraj Pandey,Anupam Kher,Naseeruddin Shah,Jimmy Sheirgill
+175,                A.R Rahman Encore Tour,2017,,Musical,8.1,75118,Deepak Gattani,A.R. Rahman,        -------,        -------
+176,                Aa Ab Laut Chalen,1999,177,"Musical, Romance, Drama",,40,Rishi Kapoor,Rajesh Khanna,Akshaye Khanna,Aishwarya Rai Bachchan
+177,                AA BB KK,2018,121,Drama,5.5,1621,Ramkumar Shedge,Shravani Abhang,Sajid Ali,Tamannaah Bhatia
+178,                Aa Bhi Ja O Piya,2021,140,"Family, Romance",8,249,Rajesh Harivansh Mishra,Abhijeet Lahiri,Akanksha Sinha,Mukul Nag
+179,                Aa Dekhen Zara,2009,117,"Action, Sci-Fi, Thriller",,40,Jehangir Surti,Neil Nitin Mukesh,Bipasha Basu,Sophiya Chaudhary
+180,                Aa Gale Lag Jaa,1973,148,"Action, Drama, Romance",5,866,Manmohan Desai,Shashi Kapoor,Sharmila Tagore,Shatrughan Sinha
+181,                Aa Gale Lag Jaa,1994,158,"Mystery, Romance",7.2,348,Hamid Ali Khan,Jugal Hansraj,Urmila Matondkar,Paresh Rawal
+182,                Aa Gaya Hero,2017,123,Action,4.4,115,Dipankar Senapati,Govinda,Richa Sharma,Poonam Pandey
+183,                Aa Jao Please,2016,120,Drama,2.7,339,Azad Jain,Neha Chauhan,Ganraj Jadhav,Dipak Khetiya
+184,                Aaag Hi Aag,1999,,Action,6.8,16,T.L.V. Prasad,Mithun Chakraborty,Jackie Shroff,Sneha
+185,                Aabra Ka Daabra,2004,144,Fantasy,4.9,28,Dheeraj Kumar,Naveen Bawa,Prabhu Deva,Satish Kaushik
+186,                Aabroo,1956,,Romance,2.4,264,Chaturbhuj Doshi,Kamini Kaushal,Kishore Kumar,Madan Puri
+187,                Aabroo,1968,170,"Comedy, Crime, Drama",,40,C.L. Rawal,Ashok Kumar,Vimi,Rehman
+188,                Aabroo,1943,,        -------,5.5,21,Nazir,        -------,        -------,        -------
+189,                Aabshar,1953,,"Drama, Romance",5.2,5,Hasrat Lucknowi,Iftekhar,Kuldip Kaur,Raaj Kumar
+190,                Aadab Arz,1943,,        -------,5,5,V.C. Desai,Nalini Jaywant,Mukesh,        -------
+191,                Aadab Hyderabad,2007,104,        -------,5.2,5,Sanjay Punjabi,        -------,        -------,        -------
+192,                Aadamkhor,1986,,Action,,0,Joginder Shelly,Sona Mastan Mirza,Joginder Shelly,Neelam Mehra
+193,                Aadamkhor,2018,72,Horror,5.5,6,Kshitij Sharma,Deeya Dey,Anoma Pabuwal,Mahendra Singh Rawat
+194,                Aadamkhor Hasina,2002,,Action,7.4,150,Salim Suma,Poonam Dasgupta,Raza Murad,Amit Pachori
+195,                Aadarniy Pitaji,2020,,Family,,40,Prashant Kumar,        -------,        -------,        -------
+196,                Aadarsh,1983,,Drama,,40,        -------,        -------,        -------,        -------
+197,                Aadat,1989,,        -------,,40,Dev Malhotra,Madhuri Mishra,Ashok Pandey,Reema Raj
+198,                Aadat Se Majboor,1982,105,"Action, Crime, Drama",,40,Ambrish Sangal,Mithun Chakraborty,Rameshwari,Madan Puri
+199,                Aadha Din Aadhee Raat,1977,132,Action,5.5,28,Doondi,Jalal Agha,Vinod Khanna,Shabana Azmi
+200,                Aadhaar,2019,107,Drama,5.1,18,Suman Ghosh,Vineet Kumar Singh,Saurabh Shukla,Raghuvir Yadav
+201,                Aadhaar,2004,,Drama,7.6,69,Shorya Veer Saagar,Saurabh Agnihotri,Aryan Harnot,Pooja Raawat
+202,                Aadharshila,1982,154,Drama,,40,Ashok Ahuja,Dolly Ahluwalia,Raja Bundela,Neena Gupta
+203,                Aadhe Adhure,1996,,Drama,6.4,19,Pooja Choudhary,Tushar Dalvi,Narendra Gupta,Rekha Purohit
+204,                Aadhi Bhagavan,2013,157,"Action, Crime, Thriller",,0,Ameer Sultan,Jayam Ravi,Neetu Chandra,Sudha Chandran
+205,"                ""    """"Aadhi Haqeeqat""",,1990,        -------,5.4,568,        -------,Dilip Ghosh,        -------,        -------
+206,                Aadhi Mimansa,1991,,        -------,,40,Apurba Kishore Bir,Mohan Gokhale,Neena Gupta,Ashok Kumar
+207,                Aadhi Raat,1957,,        -------,6.2,9,Chandrakant,        -------,        -------,        -------
+208,                Aadhi Raat,1950,115,"Drama, Romance",,40,S.K. Ojha,Cuckoo,Jeevan,Kuldip Kaur
+209,                Aadhi Raat,1999,,Horror,6.7,9,Hriday Shankar,Manoj Bakshi,Satyendra Kapoor,Satnam Kaur
+210,                Aadhi Roti,1957,,Drama,,40,Chandrakant,Prem Adib,Master Bhagwan,Daisy Irani
+211,                Aadhi Zindagi Aadhi Maut,1986,,Thriller,,40,V. Menon,Aparajita,Abhi Bhattacharya,Sargam
+212,                Aadi Shakti,1992,,Action,,40,Govind Singh,Raza Murad,Yunus Parvez,        -------
+213,                Aadmi,1968,175,"Drama, Romance",,40,A. Bhimsingh,Dilip Kumar,Waheeda Rehman,Manoj Kumar
+214,                Aadmi,1993,153,"Action, Crime, Drama",6.8,196,Arshad Khan,Ajit,Vikas Anand,Arjun
+215,                Aadmi Aur Apsara,1991,142,Fantasy,6.5,97,J. Om Prakash,K. Raghavendra Rao,Chiranjeevi,Amrish Puri
+216,                Aadmi Aur Aurat,2001,,Thriller,6.7,66,Alka Kubal,Raza Murad,Ramanna,        -------
+217,                Aadmi Aur Insaan,1969,168,"Drama, Romance, Thriller",,0,Yash Chopra,Dharmendra,Saira Banu,Feroz Khan
+218,                Aadmi Khilona Hai,1993,158,"Drama, Romance",6.2,149,J. Om Prakash,Jeetendra,Reena Roy,Govinda
+219,                Aadmi Ki Aurat Aur Anya Kahaniya,2009,78,Drama,5,142,Amit Dutta,Ashok Chaudhary,Bramhaswaroop Mishra,Gagan Singh Sethi
+220,                Aadmi Sadak Ka,1977,138,"Drama, Family",7.6,62,Devendra Goel,Shatrughan Sinha,Vikram Makandar,Zaheera
+221,                Aadupuliyattam,2016,145,Horror,5.4,34,Kannan Thamarakkulam,Jayaram,Ramya Krishnan,Om Puri
+222,                Aafat,1977,148,"Crime, Drama",4.2,266,Atma Ram,Navin Nischol,Leena Chandavarkar,Jayshree T.
+223,                Aafat-e-Ishq,2021,,"Comedy, Thriller",5.3,17,Indrajit Nattoji,Amit Sial,Neha Sharma,Garima Jain
+224,                Aafreen,2021,,Romance,,40,Manjeet Rai,Chitransh Raaj,Prishita Tiwari,Sapna Shetty
+225,                Aag,1948,138,"Musical, Romance",,40,Raj Kapoor,Nargis,Kamini Kaushal,Nigar Sultana
+226,                Aag,1967,,"Action, Drama",7.4,357,Naresh Kumar,Feroz Khan,Mumtaz,Achala Sachdev
+227,                Aag,1994,139,"Action, Comedy, Drama",6.2,29,K. Ravi Shankar,Govinda,Shilpa Shetty Kundra,Sonali Bendre
+228,                Aag Andhi Aur Toofan,1994,,"Action, Thriller",4.6,227,Kanti Shah,Amit Dhamija,Mukesh Khanna,Kiran Kumar
+229,                Aag aur Angaray,1990,,Action,3.1,11,Vikaram Naroo,Rakesh Bedi,Birbal,Gulshan Grover
+230,                Aag Aur Chingari,1994,133,Action,,40,Kanti Shah,Alpana,Aparajita,Asrani
+231,                Aag Aur Daag,1970,,"Action, Comedy, Drama",4.1,13,A. Salaam,Joy Mukherjee,Poonam Sinha,Master Bhagwan
+232,                Aag Aur Shabab,1990,101,Thriller,3.7,14,Ravi Kumar,Madhuri,Captain Raju,        -------
+233,                Aag Aur Shola,1986,,"Action, Drama, Romance",,40,K. Bapaiah,Jeetendra,Sridevi,Mandakini
+234,                Aag Aur Shola,2001,,Action,4.1,42,Ravi Raja Pinisetty,Kiran Rathod,Flora Saini,Raj Shekhar
+235,                Aag Aur Tezaab,1998,,Action,,40,Israr Ahmed,Jagdish Sidana,Satish Kaul,Kader Khan
+236,                Aag Aur Toofan,1975,,"Action, Drama, Thriller",,40,Tanvir Ahmed,Mumtaz,Robin Kumar,Anwar Hussain
+237,                Aag Hi Aag,1987,170,Action,,40,Shibu Mitra,Dharmendra,Shatrughan Sinha,Moushumi Chatterjee
+238,                Aag Ka Dariya,1990,,Action,5.3,93,S.V. Rajendra Singh Babu,Avtar Gill,Rajiv Kapoor,Padmini Kolhapure
+239,                Aag Ka Dariya,1953,,"Drama, Family",4.2,22,Roop K. Shorey,Meena Shorey,Karan Dewan,Prithviraj Kapoor
+240,                Aag Ka Gola,1990,180,"Action, Drama",,40,David Dhawan,Sunny Deol,Dimple Kapadia,Archana Puran Singh
+241,                Aag Ka Gola,2002,,Action,4.8,101,Kishan Shah,Junior Amitabh Bachchan,Junior Mithun Chakraborthy,Junior Sanjay Dutt
+242,                Aag Ka Prem Yudh,2002,,Action,,40,Thriller Manju,Rachana Maurya,Sanghavi,Upendra
+243,                Aag Ka Toofaan,1993,137,Action,,40,Kanti Shah,Dharmendra,Sadashiv Amrapurkar,Asrani
+244,                Aag Ke Sholay,1988,138,"Action, Thriller",4.8,21,S.R. Pratap,Bipasha,Hemant Birje,Sudhir Dalvi
+245,                Aag Ke Sholay,2001,139,Action,3.4,7,Kanti Shah,Anil Nagrath,Amit Pachori,Sapna Sappu
+246,                Aag Laga Do Sawan Ko,1991,,"Drama, Romance",,40,Anup Malik,Reema Lagoo,Kuldeep Mallik,Harish Patel
+247,                Aag Lagi Barsat Mein,1990,,Thriller,5.7,7,Charanya,Y.G. Mahendran,Silk Smitha,        -------
+248,                Aag Se Khelenge,1989,151,Action,,40,Subhash Ghai,Bhaskar Shetty,Jeetendra,Anil Kapoor
+249,                Aagaah: The Warning,2011,,"Drama, Horror, Thriller",5,52,Karan Razdan,Ila Arun,Anang Desai,Zakir Hussain
+250,                Aage Badho,1947,,Drama,3.6,23,Yeshwant Pethkar,Dev Anand,Madhu Apte,Khurshid Begum
+251,                Aage Badho,1972,,Romance,6,6,I.S. Johar,Dilip Dutt,Ambika Johar,Rajeev Kumar
+252,                Aage Kadam,1943,,        -------,,40,N.R. Acharya,Anjali Devi,Mubarak,Motilal
+253,                Aage Ki Soch,1988,,Comedy,,40,Dada Kondke,Shakti Kapoor,Huma Khan,Dada Kondke
+254,                Aage Maut Peeche Maut,2001,78,Horror,4.8,30,A.T. Joy,Lekha Pande,Vimal Raj,Shakila
+255,                Aage Mod Hai,1987,,        -------,3.1,7,Ajit,Raja Bundela,Uday Chandra,Geeta Khanna
+256,                Aagey Se Right,2009,117,"Comedy, Crime, Drama",,40,Indrajit Nattoji,Shreyas Talpade,Mahie Gill,Karan Veer Mehra
+257,                Aaghaat,2000,,Action,5,381,Vijay Borade,Zaffar Abbas,Mohnish Bahl,Meena Bisht
+258,                Aaghaaz,2000,153,"Action, Crime, Drama",,40,Yogesh Ishwar,Sunil Shetty,Sushmita Sen,Namrata Shirodkar
+259,                Aaghosh,1953,,"Drama, Romance",4.2,274,R.D. Mathur,Agha,Nasir Khan,Leela Mishra
+260,                Aagman,1982,,Drama,,40,Muzaffar Ali,Masood Akhtar,Bharat Bhushan,Rajina Raj Bisaria
+261,                Aah,1953,150,"Drama, Musical, Romance",4.8,8,Raja Nawathe,Nargis,Raj Kapoor,Vijayalaxmi
+262,                Aahat - Ek Ajeeb Kahani,1971,,Thriller,7.2,275,Kishore Rege,Jaya Bachchan,Ramesh Deo,Dharmendra
+263,                Aah-E-Mazluman,1935,,        -------,6.4,10,N.G. Bulchandani,Abdul Rehman Kabuli,        -------,        -------
+264,                Aahuti,1950,,        -------,,40,Kulbhushan,Cuckoo,Indubala,Vikram Kapoor
+265,                Aahuti,1978,135,"Action, Drama",,40,Ashok V. Bhushan,Rajendra Kumar,Shashi Kapoor,Rakesh Roshan
+266,                Aahuti,1992,,Drama,6,25,Rajendra Bhatia,Arun Bali,        -------,        -------
+267,                Aahvaan,2020,114,"Comedy, Horror",,40,Amrit Raj Thakur,Dev Vart Singh,Arya Chaturvedi,Muskaan Sinha
+268,                Aahwan,1996,,Action,,40,        -------,        -------,        -------,        -------
+269,                Aai Bahar,1946,,        -------,,40,        -------,        -------,        -------,        -------
+270,                Aai Phirse Bahar,1960,,        -------,,40,A. Bhimsingh,Padmini,Shivaji Ganesan,Rajasulochana
+271,                Aaina,1993,149,"Drama, Romance",,40,Deepak Sareen,Jackie Shroff,Juhi Chawla,Amrita Singh
+272,                Aaina,1977,150,Drama,6,448,K. Balachander,Mumtaz,Rajesh Khanna,A.K. Hangal
+273,                Aaina,1944,,"Drama, Romance",6.8,94,S.M. Yusuf,Husn Banu,Sulochana Chatterjee,Gope
+274,                Aaina,2019,60,Horror,3.2,5,Raja Bhargav,Komal Bharti,Urmila Chandolia,Ankit Jha
+275,                Aaiyash: The Desire,2004,123,"Drama, Romance",,40,Sandeep Kumar,Akansha,Rakhi Bajaj,Amit Dhamija
+276,                Aaj,1987,116,Drama,,40,Mahesh Bhatt,Raj Babbar,Smita Patil,Raj Kiran
+277,                Aaj Aur Kal,1947,,"Comedy, Sci-Fi",5.5,281,Khwaja Ahmad Abbas,Nayantara,Shyam,Rashid Ahmed
+278,                Aaj Aur Kal,1963,144,"Drama, Romance",4.1,8,Vasant Joglekar,Ashok Kumar,Sunil Dutt,Nanda
+279,                Aaj Jaana Hai Ke Pyaar Kya Ha,2004,,Romance,5.6,52,Vikram Naaru,Arun Bakshi,Bharat Kapoor,Shakti Kapoor
+280,                Aaj Ka Aladdin,1935,,        -------,,40,Nagendra Majumdar,        -------,        -------,        -------
+281,                Aaj Ka Andha Kanoon,2003,46,Action,6,5,Amit Chandra Sahay,Sudesh Berry,Priyanka Upendra,Aman Jalali
+282,                Aaj Ka Arjun,1990,164,"Action, Crime, Drama",3.1,15,K.C. Bokadia,Amitabh Bachchan,Jaya Prada,Radhika Sarathkumar
+283,                Aaj Ka Daur,1985,153,"Action, Drama",4.7,586,K. Bapaiah,Jackie Shroff,Padmini Kolhapure,Nirupa Roy
+284,                Aaj Ka Farhad,1948,,        -------,5.1,40,Balwant Joshi,Zohra,        -------,        -------
+285,                Aaj Ka Gang Leader,1993,,Action,,40,Kodanda Rami Reddy A.,Bhanupriya,Chiranjeevi,Radha
+286,                Aaj Ka Goonda Raaj,1992,147,"Action, Thriller",5.6,29,Ravi Raja Pinisetty,Chiranjeevi,Meenakshi Sheshadri,Raj Babbar
+287,                Aaj Ka Gunda,2001,,"Action, Thriller",5.3,144,Kanti Shah,Dharmendra,Mohan Joshi,Shakti Kapoor
+288,                Aaj Ka Gunda,1992,,Action,4.7,23,Ravi Raja Pinisetty,Chiranjeevi,Radha,Vijayshanti
+289,                Aaj Ka Gunda Raaj,2006,,Action,,40,Mahesh Anand,Tanikella Bharani,Gulshan Grover,Milind Gunaji
+290,                Aaj Ka Hindustan,1940,,        -------,6,46,Jayant Desai,Rose,Prithviraj Kapoor,Ishwarlal
+291,                Aaj Ka Inteqaam,1991,,Thriller,,40,Rajni Bala,Jainendra,Jamuna,Neela
+292,                Aaj Ka Krantiveer,2004,,Action,,40,Jayasudha,Nassar,Soundarya,Vijayakanth
+293,                Aaj Ka Laawaris,2006,,Action,,40,Arjun Sarja,Jagapathi Babu,Gajala,Vija Kumar
+294,                Aaj Ka Mahaatma,1976,170,"Action, Romance",5.7,17,Kundan Kumar,Randhir Kapoor,Rekha,Ranjeet
+295,                Aaj Ka Maseeha,1995,,Action,3.5,23,Sahil Surti,Rakesh Bedi,Brahmachari,Jamuna
+296,                Aaj Ka Nanha Farishta,2000,,"Action, Crime, Thriller",,40,Pratap Barot,Ishrat Ali,Vikas Anand,Raj Babbar
+297,                Aaj Ka Parshuram,1992,,Action,5.8,8,Satya Murthy G.,Nagendra,Disco Shanti,        -------
+298,                Aaj Ka Ravan,2000,128,"Action, Crime",,40,Kasam Ali,Mithun Chakraborty,Gajendra Chauhan,Siddharth Dhawan
+299,                Aaj Ka Romeo,1995,,Action,4.3,31,Pavithran,Prabhu Deva,Sarath Kumar,Kushboo
+300,                Aaj Ka Samson,1991,123,"Action, Romance",,40,Kukoo Kapoor,Hemant Birje,Sahila Chaddha,Goga Kapoor
+301,                Aaj Ka Shahen Shah,1997,,Action,3.1,14,Kodanda Rami Reddy A.,Bhanupriya,Chiranjeevi,Manik Irani
+302,                Aaj Ka Ye Ghar,1976,,Drama,,0,Surendra Shailaj,Jaymala Adarsh,Shreeram Lagoo,Romesh Sharma
+303,                Aaj Kaa M.L.A. Ram Avtar,1984,157,"Action, Drama",4.5,10,Narayana Rao Dasari,Rajesh Khanna,Shabana Azmi,Deven Verma
+304,                Aaj Kal,1934,,        -------,5.8,65,R.S. Choudhury,Jal Merchant,Shantakumari,        -------
+305,                Aaj Ke Angaarey,1988,128,"Action, Drama",,40,Babbar Subhash,Vinod K. Verma,Hemant Birje,Archana Puran Singh
+306,                Aaj Ke Shahenshah,1990,132,Action,5,26,Shibu Mitra,Jeetendra,Raj Babbar,Chunky Panday
+307,                Aaj Ke Sholey,1985,,Adventure,3.3,15,S.V. Rajendra Singh Babu,Jayanthi,Manjula,Amrish Puri
+308,                Aaj Ki Awaz,1984,137,"Action, Drama, Crime",5.3,37,Ravi Chopra,Raj Babbar,Smita Patil,Rashmi Chauhan
+309,                Aaj Ki Baat,1955,,        -------,5.6,79,Leela Chitnis,Ajit,Ajit Chitnis,Leela Chitnis
+310,                Aaj Ki Biwi,1991,,Drama,,40,Ajay Kumar,Vijay Kumar,Jaishree Patel,        -------
+311,                Aaj Ki Dhara,1979,,Drama,,40,Mukul Dutt,Danny Denzongpa,Padma Khanna,Pradeep Kumar
+312,                Aaj Ki Duniya,1940,,Drama,,40,G.P. Pawar,Jeevan,Trilok Kapoor,Nazir
+313,                Aaj Ki Jung,1988,,Action,,40,Kodanda Rami Reddy A.,        -------,        -------,        -------
+314,                Aaj Ki Pukar,1976,,Drama,,40,        -------,        -------,        -------,        -------
+315,                Aaj Ki Raat,1948,,        -------,,40,D.D. Kashyap,Motilal,Suraiya,Lala Yaqoob
+316,                Aaj Ki Raat,1992,,Thriller,,40,Madhuri,Pratap,Raghu,Ravi
+317,                Aaj Ki Taaqat,1992,,        -------,,40,Anil Nagrath,Jaya Mathur,Anil Nagrath,Sunil Puri
+318,                Aaj Ki Taaza Khabar,1973,,Comedy,,40,Rajendra Bhatia,Radha Saluja,Kiran Kumar,I.S. Johar
+319,                Aaj Kie Aurat,1993,,"Action, Drama",7.3,88,Avtar Bhogal,Jeetendra,Dimple Kapadia,Sujata Mehta
+320,                Aaj Watan Ne Humen Pukara,1968,,Drama,3.8,14,        -------,        -------,        -------,        -------
+321,                Aaja Mere Mehboob,1994,,Romance,,40,Rakesh Kakaria,        -------,        -------,        -------
+322,                Aaja Mere Raja,2000,,Drama,,40,Pradeep Chandra,Beena Banerjee,Amita Nangia,Moon Moon Sen
+323,                Aaja Meri Bahon Mein,2002,,Romance,,0,        -------,        -------,        -------,        -------
+324,                Aaja Meri Jaan,1993,162,Romance,,40,Ketan Anand,Krishan Kumar,Tanya Singh,Shammi Kapoor
+325,                Aaja Nachle,2007,137,"Drama, Family, Music",4.4,30,Anil Mehta,Madhuri Dixit,Darshan Jariwala,Raghuvir Yadav
+326,                Aaja Re O Sajana,1994,,"Drama, Romance",6.2,2998,Tammu Hasan,Neelima Azim,Bob Christo,Puneet Issar
+327,                Aaja Sanam,1968,121,"Drama, Romance",,40,Yusuf Naqvi,Feroz Khan,Tanuja,Deven Verma
+328,                Aaja Sanam,1994,,"Drama, Romance",6.7,14,Mohnish Bahl,Chandni,Kulbhushan Kharbanda,Ranbir Pushp
+329,                Aakanksha,1993,120,Drama,3.3,7,Dinkar Chowdhary,Om Puri,Pankaj Kapur,Sadashiv Amrapurkar
+330,                Aakhet,,,Drama,,40,Ravi Buley,Tanima Bhattacharya,Narottam Bain,Rajnikant Singh
+331,                Aakhir,1984,,Comedy,,40,K.K. Talwar,Jalal Agha,Kalpana Iyer,Jagdeep
+332,                Aakhir Kaun Thi Woh?,2000,,"Action, Mystery, Thriller",,40,Bapu,Raj Babbar,Raza Murad,Sripradha
+333,                Aakhir Kyon?,1985,,Drama,4.4,5,J. Om Prakash,Rajesh Khanna,Smita Patil,Rakesh Roshan
+334,                Aakhree Raasta,1986,164,"Action, Crime, Drama",6.6,158,Bhagyaraj,Amitabh Bachchan,Sridevi,Jaya Prada
+335,                Aakhri Adaalat,1988,148,"Action, Thriller",7.1,0,Rajiv Mehra,Vinod Khanna,Dimple Kapadia,Jackie Shroff
+336,                Aakhri Baazi,1989,149,"Action, Drama, Family",5.2,78,Ashim S. Samanta,Shatrughan Sinha,Moushumi Chatterjee,Govinda
+337,                Aakhri Badla,1989,120,"Action, Crime, Drama",4.1,0,Mangal Chakravarty,Tom Alter,Yogeeta Bali,Abhi Bhattacharya
+338,                Aakhri Badla,2004,,Action,5,21,Meena Amani,Harikrishna,Rajeev Kanakala,Mumait Khan
+339,                Aakhri Cheekh,1991,,Horror,,40,Kiran Ramsay,Vijayendra Ghatge,Javed Khan,Sripradha
+340,                Aakhri Chetawani,1993,,        -------,4.8,47,Deva Dutta,Bharat Bhushan,Sudha Chandran,Amita Nangia
+341,                Aakhri Daao,1975,,"Action, Crime, Drama",,40,A. Salaam,Jeetendra,Saira Banu,Padma Khanna
+342,                Aakhri Daku,1978,,Action,5.5,29,Prakash Mehra,Randhir Kapoor,Vinod Khanna,Rekha
+343,                Aakhri Dao,1958,,Comedy,5.6,21,Mahesh Kaul,Nutan,Shekhar,Jeevan
+344,                Aakhri Dastak,2004,,Drama,6.4,16,Kishore Dang,Aasif Sheikh,Preeti Bhutani,Raza Murad
+345,                Aakhri Galti,1936,,        -------,,40,Kamlabai Gokhale,        -------,        -------,        -------
+346,                Aakhri Geet,1975,,        -------,,40,G.V. Iyer,G.V. Narayana Rao,Rekha,Krishna Swamy
+347,                Aakhri Ghulam,1989,171,"Action, Crime, Drama",,40,Shibu Mitra,Mithun Chakraborty,Sonam,Anupam Kher
+348,                Aakhri Goli,1977,,Action,4.9,34,Shibu Mitra,Sunil Dutt,Leena Chandavarkar,Farida Jalal
+349,                Aakhri Insaaf,1980,,"Action, Mystery",4.8,18,Kalidas,Mithun Chakraborty,Vijayendra Ghatge,Ashok Kumar
+350,                Aakhri Inteqam,2002,,Action,4.9,10,Rajesh Bakshi,Sudesh Berry,Anu Kashyap,Amit Pachori
+351,                Aakhri Kasam,1979,126,"Action, Thriller",2.5,16,Dinesh-Ramanesh,Ramesh Puri,Vinod Mehra,Yogeeta Bali
+352,                Aakhri Khat,1966,153,Drama,6.3,7,Chetan Anand,Rajesh Khanna,Indrani Mukherjee,Master Bunty
+353,                Aakhri Khwahish-Ek Gunah Ki,2003,,Thriller,6.9,122,Amrit Batra,Arun Bakshi,Ramesh Bhatkar,Dinesh Hingoo
+354,                Aakhri Mohabbat,1994,,Romance,,40,Abhilasha,Girish,Ravi Menon,Raghu
+355,                Aakhri Mujra,1981,121,"Drama, Musical",,40,Hiren Nag,Asha Parekh,Vikram Makandar,Zarina Wahab
+356,                Aakhri Muqabla,1978,,Action,,40,        -------,        -------,        -------,        -------
+357,                Aakhri Nishan,1974,,        -------,,40,S.A. Ashokan,Ram Chandran,Jyothi Lakshmi,        -------
+358,                Aakhri Nishchay,1988,,Drama,,40,K.C. Agarwal,Ratan Aulakh,Anil Chadha,Sudhir Dalvi
+359,                Aakhri Paigham,1949,,        -------,,40,Muzammil Khurshid,Muzammil Khurshid,Leela Mishra,Niranjan Sharma
+360,                Aakhri Raat,1999,,Thriller,,40,Papu Bahruz,Sudhir Dalvi,Raj Devgan,Mushtaq Khan
+361,                Aakhri Sajda,1977,110,Drama,,40,Helen,Jagdeep,Murad,Maya Sinha
+362,                Aakhri Sangam,1990,160,"Action, Romance",,40,N.K. Vishwanathan,Nassar,Nirosha,Aurn Pandian
+363,                Aakhri Sanghursh,1997,138,Action,7.3,39,Narendra Bedi,Vijayendra Ghatge,Kaajal Kiran,Mukesh Khanna
+364,                Aakhri Sauda: The Last Deal,2016,,Thriller,2.8,17,Sandeep Kumar,Tanvi Arora,Sonia Bajwa,Aaryan Chopra
+365,                Aakraman,1975,139,"Drama, History, Romance",,40,J. Om Prakash,Ashok Kumar,Sanjeev Kumar,Rakesh Roshan
+366,                Aakrandan,2001,,Drama,6.3,44,        -------,        -------,        -------,        -------
+367,                Aakrant,1988,,Drama,,40,Vinod Kumar,Sadashiv Amrapurkar,C.S. Dubey,Kislaya
+368,                Aakrosh,1980,144,"Crime, Drama, Music",,40,Govind Nihalani,Naseeruddin Shah,Smita Patil,Amrish Puri
+369,                Aakrosh,2010,115,"Action, Crime, Thriller",7.9,887,Priyadarshan,Ajay Devgn,Akshaye Khanna,Bipasha Basu
+370,                Aakrosh: Cyclone of Anger,1998,,"Action, Crime, Drama",7,3464,Lateef Binny,Sunil Shetty,Shilpa Shetty Kundra,Girish Karnad
+371,                Aalaap,2012,116,Sci-Fi,4.6,93,Manish Manikpuri,Omkar Das Manikpuri,Pitobash,Amit Purohit
+372,                Aalavandhan,2001,177,"Action, Thriller",5.4,26,Suresh Krishna,Kamal Haasan,Raveena Tandon,Manisha Koirala
+373,                Aalha Udal,1962,,"Drama, History",7.2,2192,Jaswant Jhaveri,Master Bhagwan,Paidi Jairaj,Jeevan
+374,                Aalwar,2007,152,Action,,40,Chella,Ajith Kumar,Asin Thottumkal,Vivek
+375,                Aamaar Bhuvan,2018,107,"Drama, Family",3,922,Mrinal Sen,Saswata Chatterjee,Nandita Das,Koushik Sen
+376,                Aamdani Atthanni Kharcha Rupaiya,2001,150,"Comedy, Drama, Family",7.7,72,K. Raghavendra Rao,A.S. Ravindra Babu,Govinda,Juhi Chawla
+377,                Aamir,2008,99,"Action, Crime, Drama",4.8,1238,Raj Kumar Gupta,Rajeev Khandelwal,Aishwarya,Vasan Bala
+378,                Aamna Saamna,2013,62,Animation,7.7,10862,Rajiv Chilaka,Jigna Bhardwaj,Rajesh Kava,Sabina Malik
+379,                Aamne - Saamne,1967,163,"Crime, Mystery, Romance",,40,Suraj Prakash,Shashi Kapoor,Sharmila Tagore,Prem Chopra
+380,                Aamne Samne,1982,143,"Action, Crime, Drama",6.5,81,Ashim S. Samanta,Mithun Chakraborty,Bindiya Goswami,Arti Gupta
+381,                Aamras: The Sweet Taste of Friendship,2009,,Drama,6.4,53,Rupali Guha,Vega Tamotia,Ntasha Bhardwaj,Maanvi Gagroo
+382,                Aamrityu,2018,,Drama,5.8,60,Arup Manna,        -------,        -------,        -------
+383,                Aan Aur Shaan,1984,130,Drama,,40,Ravi Tandon,Rishi Kapoor,Moushumi Chatterjee,Shammi Kapoor
+384,                Aan Baan,1972,,Drama,6.4,37,Prakash Mehra,Rajendra Kumar,Rakhee Gulzar,Kumkum
+385,                Aan Baan,1956,,Romance,6.1,28,D.D. Kashyap,Ajit,Nalini Jaywant,Mahipal
+386,                Aan Milo Sajna,1970,177,"Drama, Musical, Romance",2.8,5,Mukul Dutt,Rajesh Khanna,Asha Parekh,Vinod Khanna
+387,                Aan: Men at Work,2004,149,"Action, Crime, Drama",6.4,211,Madhur Bhandarkar,Akshay Kumar,Shatrughan Sinha,Sunil Shetty
+388,                Aanch,2003,160,Drama,5.7,2907,Rajesh Ram Singh,Arun Bakshi,Suchindra Bali,Poonam Jhawer
+389,                Aanchal,1980,138,"Action, Drama, Family",5.6,102,Anil Ganguly,Rajesh Khanna,Rakhee Gulzar,Rekha
+390,                Aanchal,1960,,"Drama, Family",6.4,58,Vasant Joglekar,Ashok Kumar,Nirupa Roy,Nanda
+391,                Aanchal Ke Phool,1968,,Drama,4.9,8,Karunesh Thakur,Sajjan,Kamini Kaushal,Dev Dutt
+392,                Aandha Intaquam,1993,,Action,5.7,6,Swaroop Kumar,Shanti Priya,Ronit Roy,Tapasya
+393,                Aandhi,1975,133,"Drama, Romance",,40,Gulzar,Suchitra Sen,Sanjeev Kumar,Om Shivpuri
+394,                Aandhi,1948,,Drama,8.1,1406,T.R. Sundaram,        -------,        -------,        -------
+395,                Aandhi Aur Toofan,1964,,"Action, Adventure, Romance",,40,Mohammed Hussain,Dara Singh,Mumtaz,Kamran
+396,                Aandhi-Toofan,1985,144,Drama,6,8,Babbar Subhash,Shashi Kapoor,Hema Malini,Danny Denzongpa
+397,                Aandhiyan,1952,136,Drama,6.1,49,Chetan Anand,Dev Anand,Nimmi,Kalpana Kartik
+398,                Aandhiyan,1990,145,Drama,7.4,30,David Dhawan,Mumtaz,Prasenjit Chatterjee,Madhushree
+399,                Aangan,1959,,"Music, Romance",4.8,38,O.P. Dutta,Agha,Ameeta,Rehman
+400,                Aangan,1973,,"Drama, Family",6.6,31,Nasir Hussain,Farida Jalal,Ashim Kumar,Leela Mishra
+401,                Aangan Ki Kali,1979,,"Drama, Family",,0,Harsh Kohli,Rakesh Roshan,Lakshmi,Prema Narayan
+402,                Aani Maani,2019,94,Drama,5.6,5,Fahim Irshad,Farrukh Seyer,Priyanka Verma,Neha Singh
+403,                Aankh Ka Nasha,1933,,        -------,6.6,15,J.J. Madan,Khurshid Begum,Mukhtar Begum,Jehanara Kajjan
+404,                Aankh Ki Sharm,1943,,        -------,,20,Balwant Bhatt,Prithviraj Kapoor,Trilok Kapoor,Kaushalya
+405,                Aankh Micholi,1972,,Family,,20,Ramanna,Rakesh Roshan,Bharti,Om Prakash
+406,                Aankh Micholi,2021,,"Comedy, Family",6,6,Umesh Shukla,Paresh Rawal,Sharman Joshi,Abhimanyu Dasani
+407,                Aankh Michouli,1942,,        -------,,0,R.S. Choudhury,Nalini Jaywant,        -------,        -------
+408,                Aankhein: The Third Eye,2004,,Action,,20,Nassar,Sada,Srikanth,        -------
+409,                Aankhen,1993,170,"Action, Comedy, Crime",7.4,15,David Dhawan,Govinda,Chunky Panday,Raj Babbar
+410,                Aankhen,1950,,"Drama, Family",6.7,1898,Devendra Goel,Shekhar,Bharat Bhushan,Nalini Jaywant
+411,                Aankhen,2002,165,"Crime, Drama, Thriller",7.2,6,Vipul Amrutlal Shah,Amitabh Bachchan,Akshay Kumar,Sushmita Sen
+412,                Aankhen 2,2021,,Thriller,7.4,12574,Abhinay Deo,Amitabh Bachchan,Sidharth Malhotra,        -------
+413,                Aankhin Dekhi,1978,,Drama,,20,Rajinder Singh Bedi,Suresh Bhagwat,Bhanumati,Bipin Gupta
+414,                Aankhon Aankhon Mein,1972,154,"Drama, Romance",,20,Raghunath Jhalani,Rakhee Gulzar,Rakesh Roshan,Achala Sachdev
+415,                Aankhon Mein Sapne Liye,2005,,Romance,6.4,28,Nilu Gavankar,Usha Bachani,Janina Gavankar,Cleo Isaacs
+416,                Aansoo,1953,,Drama,,0,Shanti Kumar,Kamini Kaushal,Kumkum,Madan Mohan
+417,                Aansoo Aur Muskan,1970,150,"Comedy, Drama, Family",,20,P. Madhavan,Hema Malini,Parikshit Sahni,Jagdeep
+418,                Aansuon Ki Duniya,1936,,        -------,6.5,24,Anand Prasad Kapoor,Anwari,Sarla,Surendra
+419,                Aantiya,1993,,Drama,,20,Hiren Goswani,Dixita,Anant Galvi,Raj Goswami
+420,                Aao Baby Pyar Karen,1983,,Romance,,20,        -------,        -------,        -------,        -------
+421,                Aao Hum Saath Chalein,2003,,Romance,,20,        -------,        -------,        -------,        -------
+422,                Aao Jao Ghar Tumhara,1984,,Drama,,20,Murlidhar Kapdi,Agha,Birbal,Chandrashekhar
+423,                Aao Khelein Gilli Danda,2021,,Drama,,20,Faheem Chaudhry,Sonal Jha,Omkar Das Manikpuri,Rajesh Jais
+424,                Aao Milkar Gaen,1964,,Documentary,,20,Pramod Pati,        -------,        -------,        -------
+425,                Aao Pyaar Karen,1964,,"Drama, Romance",,20,R.K. Nayyar,Joy Mukherjee,Saira Banu,Sanjeev Kumar
+426,                Aao Pyaar Karen,1983,,Drama,6.2,15,Prakash Verma,Anita Advani,Radhika Bartake,Benjamin Gilani
+427,                Aao Pyaar Karen,1994,141,Romance,,20,Ravindra Peepat,Saif Ali Khan,Shilpa Shetty Kundra,Somy Ali
+428,                Aao Wish Karein,2009,140,"Comedy, Family, Fantasy",4.2,160,Glen Barreto,Aftab Shivdasani,Aamna Sharif,Rati Agnihotri
+429,                Aap Aye Bahaar Ayee,1971,119,"Comedy, Drama, Romance",5.1,584,Mohan Kumar,Rajendra Kumar,Sadhana,Prem Chopra
+430,                Aap Beati,1976,145,"Drama, Family",6.6,80,Mohan Kumar,Shashi Kapoor,Hema Malini,Ashok Kumar
+431,                Aap Beeti,1948,,Drama,5.7,32,Kumar,Agha,Ajit,Khurshid Begum
+432,                Aap Jaisa Koi,2003,,Musical,,20,Ruslaan Mumtaz,        -------,        -------,        -------
+433,                Aap Ka Pyar,1988,,Romance,,20,Baby Bulbul,Devesh,Jiteshwari,Ritu Khanna
+434,                Aap Ke Deewane,1980,,Romance,,20,Surendra Mohan,Jeetendra,Rishi Kapoor,Tina Ambani
+435,                Aap Ke Saath,1986,,Drama,5.8,204,J. Om Prakash,Smita Patil,Anil Kapoor,Rati Agnihotri
+436,                Aap Ki Kasam,1974,153,"Romance, Drama",5.7,49,J. Om Prakash,Rajesh Khanna,Mumtaz,Sanjeev Kumar
+437,                Aap Ki Khatir,1977,115,"Action, Comedy, Drama",7,420,Sudhendu Roy,Vinod Khanna,Rekha,Nadira
+438,                Aap Ki Khatir,2006,122,"Comedy, Romance",6.3,27,Dharmesh Darshan,Akshaye Khanna,Priyanka Chopra Jonas,Ameesha Patel
+439,                Aap Ki Marzi,1939,,        -------,3.6,863,Sarvottam Badami,Khurshid Begum,Sabita Devi,Sunalini Devi
+440,                Aap Ki Parchhaiyan,1964,128,"Drama, Family, Romance",,20,Mohan Kumar,Dharmendra,Supriya Choudhury,Vijayalaxmi
+441,                Aap Ki Sewa Mein,1946,,        -------,6.3,39,Vasant Joglekar,Nimbalkar,        -------,        -------
+442,                Aap Mujhe Achche Lagne Lage,2002,180,"Action, Drama, Romance",,20,Vikram Bhatt,Hrithik Roshan,Ameesha Patel,Kiran Kumar
+443,                Aap Se Pyar Hain,1994,,Romance,3.1,2366,Ayush,        -------,        -------,        -------
+444,                Aap Se Pyar Hua,1978,,Romance,,20,P. Sharma,Rita Anchan,Satish Kaul,Sona
+445,                Aap To Aise Na The,1980,145,"Romance, Drama, Family",,20,Ambrish Sangal,Raj Babbar,Ranjeeta Kaur,Deepak Parashar
+446,                Aapa Akka,2009,,Drama,5.6,38,Mandakini Mathur,Sohail Mokashi,Satyajit Kadam,        -------
+447,                Aapas Ki Baat,1981,148,"Action, Romance",6,10,Harmesh Malhotra,Poonam Dhillon,Raj Babbar,Shakti Kapoor
+448,                Aapko Pehle Bhi Kahin Dekha Hai,2003,145,"Action, Comedy, Drama",5.2,17,Anubhav Sinha,Priyanshu Chatterjee,Sakshi Shivanand,Farida Jalal
+449,                Aaplee Maanse,1992,,Drama,4.5,273,Sanjay Soorkar,Prashant Damle,Mohan Joshi,Sudhir Joshi
+450,                Aar Paar,1985,125,Action,6.4,12,Shakti Samanta,Mithun Chakraborty,Rozina,Utpal Dutt
+451,                Aar Paar: The Judgement,2004,,Action,6.1,44,Genelia D'Souza,Nitin Kumar,Pradeep Singh Rawat,        -------
+452,                Aar Ya Paar,1997,180,Thriller,,20,Ketan Mehta,Jackie Shroff,Deepa Sahi,Ritu Shivpuri
+453,                Aarakshan,2011,164,"Drama, Thriller",6.1,230,Prakash Jha,Amitabh Bachchan,Saif Ali Khan,Manoj Bajpayee
+454,                Aaram,1951,,Romance,6.2,5170,D.D. Kashyap,Dev Anand,Madhubala,Talat Mahmood
+455,                Aarambh,1976,,Drama,6.8,40,Gyan Kumar,Saira Banu,Kishore Namit Kapoor,Ravi Kumar
+456,                Aaravalli,1957,210,Horror,,20,Varalakshmi G.,        -------,        -------,        -------
+457,                Aarilirunthu Arubadhuvarai,1979,,Drama,5.9,7,S.P. Muthuraman,        -------,        -------,        -------
+458,                Aarohi,1982,,Romance,,20,Kishore Kapoor,Vipin Kapoor,Rakesh Pandey,Rama Vij
+459,                Aarop,1974,129,Drama,,20,Atma Ram,Vinod Khanna,Saira Banu,Vinod Mehra
+460,                Aar-Paar,1954,146,"Musical, Romance, Thriller",6.7,13,Guru Dutt,Shyama,Guru Dutt,Jagdish Sethi
+461,                Aarti,1962,156,"Family, Musical, Romance",6.6,250,Phani Majumdar,Ashok Kumar,Meena Kumari,Pradeep Kumar
+462,                Aarti,1945,,        -------,6.6,67,Ramchandra Thakur,Kanhaiyalal Chaturvedi,Surendra,Vanamala
+463,                Aarya,2007,157,"Action, Drama, Romance",,20,Balasekaran,Bhavana,Madhavan,Prakash Raj
+464,                Aarya,1992,,Romance,4.6,191,Mani Nair,        -------,        -------,        -------
+465,                Aaryamaan,,125,"Action, Drama, Fantasy",,20,Mitesh Kumar Patel,        -------,        -------,        -------
+466,                Aaryan Mera Naam,1988,,Action,,20,Ramya Krishnan,Mohanlal,Balan K. Nair,Gavin Packard
+467,                Aarzoo,1999,175,"Drama, Romance",,20,Lawrence D'Souza,Madhuri Dixit,Akshay Kumar,Saif Ali Khan
+468,                Aas,1953,,Romance,5.4,1445,Devendra Goel,Kamini Kaushal,Shekhar,Om Prakash
+469,                Aas,1978,,Romance,5.1,13,        -------,        -------,        -------,        -------
+470,                Aas Aur Pyaas,1983,,Drama,,20,K.C. Agarwal,Girish Karnad,Nutan,Rameshwari
+471,                Aas Ka Panchhi,1961,,"Family, Drama",,20,Mohan Kumar,Vyjayanthimala,Rajendra Kumar,Raj Mehra
+472,                Aas Paas,1981,,Romance,6.8,32,J. Om Prakash,Dharmendra,Hema Malini,Prem Chopra
+473,                Aasha,1957,171,"Comedy, Romance",5.8,107,M.V. Raman,Vyjayanthimala,Kishore Kumar,Pran
+474,                Aasha,1980,123,"Drama, Musical, Romance",6.5,23,J. Om Prakash,Jeetendra,Reena Roy,Rameshwari
+475,                Aashanka,1983,,Drama,5.3,199,Hari Atma,Omi Kapoor,Suhaas Khandke,Meena Paliwal
+476,                Aashayein,2010,120,Drama,,20,Nagesh Kukunoor,John Abraham,Anaitha Nair,Girish Karnad
+477,                Aashiana,1986,,Drama,7.1,1259,Mahesh Bhatt,Amit Khanna,Mark Zubair,Deepti Naval
+478,                Aashiana,1974,,"Crime, Drama, Romance",2.6,11,Syed Hussain,Harindranath Chattopadhyay,Ramesh Deo,Gajanan Jagirdar
+479,                Aashik Aawara,1993,,Drama,,20,Umesh Mehra,Saif Ali Khan,Mamta Kulkarni,Mohnish Bahl
+480,                Aashiq,1962,150,Romance,5.2,299,Hrishikesh Mukherjee,Raj Kapoor,Padmini,Nanda
+481,                Aashiq,2001,160,"Action, Drama, Romance",6.7,64,Indra Kumar,Bobby Deol,Karisma Kapoor,Rahul Dev
+482,                Aashiq Banaya Aapne: Love Takes Over,2005,115,"Drama, Romance, Thriller",3.8,403,Aditya Datt,Emraan Hashmi,Tanushree Dutta,Sonu Sood
+483,                Aashiq Hoon Baharon Ka,1977,136,Romance,4.3,1569,J. Om Prakash,Rajesh Khanna,Zeenat Aman,Danny Denzongpa
+484,                Aashique Mastane,1995,,Comedy,5.5,85,Ajay Kashyap,Maya Alagh,Vikas Anand,Mohnish Bahl
+485,                Aashiqui,1990,152,"Musical, Drama, Romance",6.2,0,Mahesh Bhatt,Rahul Roy,Anu Agrawal,Avtar Gill
+486,                Aashiqui 2,2013,132,"Drama, Music, Musical",6.3,1661,Mohit Suri,Aditya Roy Kapoor,Shraddha Kapoor,Shaad Randhawa
+487,                Aashiqui.In,2011,109,"Drama, Romance",7,27357,Shankhadeep,Shubhi Ahuja,Amit Dhamija,Preeti Gandwani
+488,                Aashirwad,1968,146,Drama,3.7,61,Hrishikesh Mukherjee,Ashok Kumar,Sanjeev Kumar,Sumita Sanyal
+489,                Aashmani Jawaharat,2014,132,Drama,7.3,203,Sriparna Dey,Anamitra Roy,Anamitra Roy,Yovik
+490,                Aasma,2018,105,"Action, Crime, Drama",6.1,10,Sudipto Sen,Subrat Dutta,Ameet Gaurr,Sunny Hinduja
+491,                Aasma: The Sky Is the Limit,2009,240,Drama,5.2,8,Rohit Krishnakant Nayyar,Hrishitaa Bhatt,Seema Biswas,Nauheed Cyrusi
+492,                Aasmaan,1952,,"Drama, Family",3.8,46,Dalsukh M. Pancholi,Nasir Khan,Shyama,Veena
+493,                Aasmaan,1984,145,"Drama, Mystery",,20,Tony Juneja,Rajiv Kapoor,Divya Rana,Tina Ambani
+494,                Aasmaan Mahal,1965,172,Drama,4.8,0,Khwaja Ahmad Abbas,Prithviraj Kapoor,Dilip Roy,Surekha
+495,                Aasmaan Se Gira,1992,88,"Adventure, Comedy, Romance",5.5,6,Pankaj Parashar,Abhishek Chitlangia,Raghuvir Yadav,Anupam Kher
+496,                Aasoo Bane Angaarey,1993,150,Action,6.8,56,Mehul Kumar,Jeetendra,Madhuri Dixit,Kiran Kumar
+497,                Aasra,1966,161,"Drama, Family",4.5,88,Satyen Bose,Mala Sinha,Biswajit Chatterjee,Balraj Sahni
+498,                Aasra,2016,,Biography,7.2,32,Raj Sagar,Raj Sagar,Atul Kulkarni,Ashok Samarth
+499,                Aasra,2019,95,"Drama, Family, Romance",,20,Dinesh Chaudhary,Uttar Kumar,Dev Sharma,Devika Thakur
+500,                Aastha: In the Prison of Spring,1997,132,Drama,,20,Basu Bhattacharya,Rekha,Om Puri,Dinesh Thakur
+501,                Aatank,1996,113,"Action, Thriller",6.4,172,Prem Lalwani,Desh Mukherjee,Nafisa Ali,Dharmendra
+502,                Aatank Hi Aatank,1995,155,"Action, Crime, Drama",3.9,99,Dilip Shankar,Rajinikanth,Aamir Khan,Juhi Chawla
+503,                Aatank Raj,1999,118,Action,5.2,776,R. Mittal,Mohan Joshi,Bharat Kapoor,Arshad Khan
+504,                Aathi,2006,167,"Action, Drama, Thriller",,20,Ramana,Joseph Vijay,Trisha Krishnan,Vivek
+505,                Aati... Kya!!!,,130,Comedy,4.4,2166,Jasbir Bijender Bhati,Vikas Kailash,        -------,        -------
+506,                Aatish,1979,139,Action,,20,Ambrish Sangal,Jeetendra,Neetu Singh,Dheeraj Kumar
+507,                Aatish: Feel the Fire,1994,155,"Action, Crime, Drama",4.5,16,Sanjay Gupta,Sanjay Dutt,Aditya Pancholi,Raveena Tandon
+508,                Aatma,2006,107,"Crime, Drama, Horror",5.8,735,Deepak Ramsay,Kapil Jhaveri,Shabana Raza,Vikram Singh
+509,                Aatma,2013,100,"Drama, Horror, Thriller",4.2,79,Suparn Varma,Jaideep Ahlawat,Bipasha Basu,Padam Bhola
+510,                Aatma Aur Parmatma,1978,,Thriller,3.8,623,        -------,        -------,        -------,        -------
+511,                Aatma Aur Parmatma,2004,109,Horror,,20,Keerthi Chawla,Anant Nag,Bullet Prakash,        -------
+512,                Aavartan,2021,116,Musical,,20,Durba Sahay,Sushma Seth,Shovana Narayan,Sunit Razdan
+513,                Aavida Maa Aavide,1998,153,"Comedy, Romance",,20,E.V.V. Satyanarayana,Nagarjuna Akkineni,Tabu,Heera Rajgopal
+514,                Aavishkar,1974,107,"Drama, Romance",6.4,170,Basu Bhattacharya,Rajesh Khanna,Sharmila Tagore,Dina Pathak
+515,                Aawaz,1956,146,Romance,7,213,Zia Sarhadi,Nalini Jaywant,Nasir Hussain,Usha Kiran
+516,                Aawaz De Kahan Hai,1990,,"Drama, Romance",5.1,7,Sibte Hassan Rizvi,Bindu,Annu Kapoor,Satyendra Kapoor
+517,                Aaya Hai Dulha Dulhan Le Jayega (AHDDLJ),2018,,"Family, Music, Musical",3.7,7,Dharmesh Tiwari,Rucha Gujrati,Amit Agarwal,        -------
+518,                Aaya Jawani Jhoom Ke,1994,,Thriller,,20,Silk Smitha,        -------,        -------,        -------
+519,                Aaya Toofan,1964,128,"Action, Adventure, Fantasy",,20,Mohammed Hussain,Kedar Kapoor,Dara Singh,Helen
+520,                Aaya Toofan,1999,111,Action,6.1,14,Deepak Balraj Vij,Mithun Chakraborty,Aditya Pancholi,Gulshan Grover
+521,                Aaya Yauwan Jhoom Ke,1999,,Drama,5.4,31,Papu Bahruz,Rajendra Gupta,Johnny Lever,Kirti Rawal
+522,                Aayaam,2021,,Drama,,20,Mihir Kumar Sharma,Deepak Singh,Deeksha Panth,Chirag Dave
+523,                Aaye Din Bahar Ke,1966,170,"Musical, Romance",,20,Raghunath Jhalani,Asha Parekh,Dharmendra,Balraj Sahni
+524,                Aayi Tere Yaad,1980,,Drama,6.6,109,Krishna Naidu,Rajni Bala,Birbal,Meera
+525,                Aazaan,2011,125,"Action, Musical, Thriller",,20,Prashant Chadha,Sachiin Joshi,Candice Boucher,Arya Babbar
+526,                Aazmayish,1995,147,"Action, Drama, Romance",4.4,346,Sachin Pilgaonkar,Sachin,Rohit Kumar Sharma,Dharmendra
+527,                Ab Ayega Mazaa,1984,128,Comedy,5,35,Pankaj Parashar,Ravi Baswani,Raja Bundela,Pawan Malhotra
+528,                Ab Badla Main Loongi,1990,,Action,6.6,85,Hemagini,Manik Irani,Salma Nazeem,Shafiqua
+529,                Ab Bolo Har Har Mahadev,2010,,Drama,,20,Anil Mehta,Rima N. Kapoor,Nirmal Pandey,Pushpraj Singh
+530,                Ab Dilli Dur Nahin,1957,133,Drama,,20,Amar Kumar,Master Romi,Sulochana Latkar,Lala Yaqoob
+531,                Ab Hoga Dharna Unlimited,2012,78,Comedy,7.6,80,Deepak Tanwar,Saurabh Malik,Rekha Rana,Omkar Das Manikpuri
+532,                Ab Insaf Hoga,1995,125,"Action, Drama",4,6,Harish Shah,Rekha,Mithun Chakraborty,Deepika Amin
+533,                Ab Ke Baras,2002,,"Action, Romance, Thriller",4.8,32,Raj Kanwar,Arya Babbar,Amrita Rao,Ashutosh Rana
+534,                Ab Kya Hoga,1977,,"Mystery, Thriller",3.3,198,Saawan Kumar Tak,Shatrughan Sinha,Neetu Singh,Asrani
+535,                Ab Kya Hoga,2002,,Thriller,4.8,24,        -------,        -------,        -------,        -------
+536,                Ab Meri Baari,1989,,Action,,20,Bhagwan Thakur,Hemant Birje,Sudhir Dalvi,Kimi Katkar
+537,                Ab Meri Baari,1983,,Action,5.1,8,        -------,        -------,        -------,        -------
+538,                Ab Tak Chhappan,2004,129,"Action, Crime, Drama",,20,Shimit Amin,Nana Patekar,Revathi,Yashpal Sharma
+539,                Ab Tak Chhappan 2,2015,106,"Action, Crime, Thriller",7.8,8379,Ejaz Gulab,Nana Patekar,Mohan Agashe,Gul Panag
+540,                Ab To Aaja Saajan Mere,1994,127,"Drama, Romance",5.8,1344,Rakesh Nahata,Keshto Iqbal,Arvind Joshi,Shalini Kapoor
+541,                Ab to Jeene Do,1995,,Action,4,6,Yash Chouhan,Ishrat Ali,Sadashiv Amrapurkar,Mitwa
+542,                Ab Tumhare Hawale Watan Saathiyo,2004,193,"Action, Drama, War",,20,Anil Sharma,Sanjay Sharma,Amitabh Bachchan,Akshay Kumar
+543,                Ab Tumhari Bari,2005,,Horror,4.6,1494,Mohan Bhakri,Rana Jung Bahadur,Sunil Dhawan,Tina Ghai
+544,                Ab Ye Galtiyan Na Ho,2021,,Romance,,20,Masum Ali Khan,Karamveer Choudhary,Subeer Kasali,        -------
+545,                Ab... Bas!,2004,137,"Romance, Thriller",,20,Rajesh Kumar Singh,Chetanya Adeep,Shawar Ali,Arun Bakshi
+546,                Abala,1989,,Drama,3.2,74,Vasant Kumar Goni,Girish Karnad,Asha Lata,Sheela Sharma
+547,                ABCD (Any Body Can Dance),2013,160,"Drama, Music",,20,Remo D'Souza,Prabhu Deva,Ganesh Acharya,Kay Kay Menon
+548,                Abdul Qayyoom Khan,1968,,Drama,6.3,6458,        -------,        -------,        -------,        -------
+549,                Abdulla,1960,,        -------,,20,Aakkoo,Ajit,Helen,Mahipal
+550,                Abdullah,1980,136,"Action, Drama, Romance",,20,Sanjay Khan,Raj Kapoor,Sanjay Khan,Sanjeev Kumar
+551,                Abe Hayat,1933,,Drama,6.4,189,Krishna Gopal,Ali Athar,Bachan,Nazir
+552,                Abe Hayat,1955,140,"Action, Adventure, Fantasy",2.8,10,Ramanlal Desai,Prem Nath,Ameeta,Shashikala
+553,                Abhagin,1938,151,        -------,4.8,21,Prafulla Roy,Molina Devi,Prithviraj Kapoor,Vijay Kumar
+554,                Abhay,1995,127,Fantasy,,20,Annu Kapoor,Ankit Desai,Benjamin Gilani,Eka Lakhani
+555,                Abhi Abhi,1992,,Romance,7,64,Rajaram,Soorya,Rubaina Khan,Mohnish Bahl
+556,                Abhi Kal Hi Ki Baat Hai,1970,,Documentary,,20,Clement Baptista,        -------,        -------,        -------
+557,                Abhi To Jee Lein,1977,135,"Action, Drama, Thriller",,0,Roshan Taneja,Jaya Bachchan,Danny Denzongpa,Simi Garewal
+558,                Abhi To Main Jawaan Hoon,1989,,Comedy,5.4,10,Amjad Khan,Bharat Bhushan,Kalpana Iyer,Shehzad Khan
+559,                Abhi to Raat Hain,2005,,Thriller,,0,        -------,        -------,        -------,        -------
+560,                Abhi toh party shuru hui hai,,,Drama,,20,Anubhav Sinha,Richa Chadha,Pankaj Tripathi,Shriya Pilgaonkar
+561,                Abhilasha,1968,141,"Drama, Romance",,20,Amit Bose,Meena Kumari,Nanda,Sanjay Khan
+562,                Abhilasha,1938,134,        -------,6.8,0,Zia Sarhadi,Mahendra Thakore,M. Kumar,Bibbo
+563,                Abhimaan,1957,,"Drama, Family, Romance",,20,Mahesh Kaul,Ameeta,Shekhar,Chand Usmani
+564,                Abhimaan,1973,122,"Drama, Musical",7.1,10,Hrishikesh Mukherjee,Amitabh Bachchan,Jaya Bachchan,Asrani
+565,                Abhimanyu,1980,,        -------,7.9,2665,Mahesh Bhatt,        -------,        -------,        -------
+566,                Abhimanyu,1991,140,"Crime, Drama, Musical",3.2,0,Priyadarshan,Mohanlal,Shankar,Ajayan Adoor
+567,                Abhimanyu,1989,168,"Action, Comedy, Drama",7,326,Tony Juneja,Anil Kapoor,Kimi Katkar,Poonam Dhillon
+568,                Abhinav Bindra Biopic,,,Biography,4.6,28,Kannan Iyer,Anil Kapoor,Harshvardhan Kapoor,        -------
+569,                Abhinetri,1970,154,"Drama, Romance",,20,Subodh Mukherji,Shashi Kapoor,Hema Malini,Deb Mukherjee
+570,                Abhishap,1986,,Drama,6.7,70,Biresh Chatterjee,Ranjit Mallick,Debashree Roy,Soumitra Bannerjee
+571,                Abhishapt,2011,,Drama,7.1,8,Pankaj Prakash,Dilshad Patel,Vasundhara Das,Raj Vasudeva
+572,                Abhishapt,1988,,        -------,7,6,Prakash Jha,Deepti Naval,Pyare Mohan Sahay,Vasant Joglekar
+573,                Abhiyog,1996,,Drama,,20,        -------,        -------,        -------,        -------
+574,                Abidah,1948,,        -------,,20,Nazir,Noor Jehan,M. Kumar,Swarnalata
+575,                Abla,1941,,        -------,,20,R.N. Vaidya,Chandrika,Sheila Haldar,Hiralal
+576,                Abla Ki Shakti,1940,,        -------,,20,Munshi Dil,Jehanara Kajjan,Phool Kumari,Premlata
+577,                Abodh,1984,132,Drama,,20,Hiren Nag,Tapas Pal,Madhuri Dixit,Sheela Sharma
+578,                Abroo,1943,,        -------,5.8,109,Govind Ram,Sitara Devi,Lala Yaqoob,Jagdish Sethi
+579,                Absence of a sound,,57,Drama,3.1,7,Zameer Kamble,Manoj Thorat,        -------,        -------
+580,                Abu Kaliya,1990,,"Action, Crime, Mystery",,20,C.K. Kader,Premnath Gulati,Majid Khan,Sudhir Pandey
+581,                Abul Hasan,1931,,        -------,,20,Prafulla Ghosh,Hadi,Khatun,Shahzadi
+582,                Accident,1965,,Thriller,,20,Amarnath,Iqbal Mishra,Ranjan,Rashida
+583,                Accident on Hill Road,2010,105,"Crime, Drama, Thriller",,20,Mahesh Nair,Farooq Shaikh,Celina Jaitly,Abhimanyu Singh
+584,                Achanak,1973,96,"Crime, Drama",4,284,Gulzar,Vinod Khanna,Om Shivpuri,Lily Chakravarty
+585,                Achanak,1998,160,"Action, Mystery, Thriller",6.8,213,Naresh Malhotra,Govinda,Manisha Koirala,Farha Naaz
+586,                Achanak,1988,,Thriller,4,245,Rakesh Kashyap,Om Puri,Kunickaa Sadanand,Kanwaljit Singh
+587,                Achanak,1988,,Drama,,20,Kavi Raz,Alka,Amarjeet Kaur,Kavi Raz
+588,                Achchhaji,1950,,Comedy,,20,S.H. Tharani,Master Bhagwan,Baburao Pahelwan,Naaz
+589,                Achha Bura,1972,,        -------,,20,Mohammed Hussain,Anupama,Mohan Choti,Dev Dutt
+590,                Achha Bura,1983,,Drama,,20,Hrishikesh Mukherjee,Amjad Khan,Ranjeet,Raj Babbar
+591,                Achhut,1940,140,Drama,6.7,25,Gohar,Motilal,Vasanti,Noor Mohammad Charlie
+592,                Achhut Kanya,1936,142,"Drama, Musical, Romance",,20,Franz Osten,Devika Rani,Ashok Kumar,Monorama
+593,                Acid Factory,2009,108,"Action, Crime, Mystery",6.5,114,Suparn Varma,Fardeen Khan,Dia Mirza,Manoj Bajpayee
+594,                Action,1989,,        -------,5,677,Dimple Kapadia,        -------,        -------,        -------
+595,                Action,2019,158,"Action, Adventure, Thriller",,20,Sundar C.,Vishal,Tamannaah Bhatia,Aishwarya Lekshmi
+596,                Action for Calcutta,1971,,Documentary,4.5,858,Santi P. Choudhury,        -------,        -------,        -------
+597,                Action Jackson,2014,144,"Action, Crime, Thriller",,20,Prabhu Deva,Prabhas,Ajay Devgn,Sonakshi Sinha
+598,                Action No.1,2004,,Action,3.3,3461,Thriller Manju,Vani Viswanath,        -------,        -------
+599,                Action Replayy,2010,129,"Comedy, Romance, Sci-Fi",,20,Vipul Amrutlal Shah,Akshay Kumar,Aishwarya Rai Bachchan,Aditya Roy Kapoor
+600,                Actor,1950,,Comedy,4.2,5814,Ranjibhai Arya,Ramola,Master Bhagwan,Indurani
+601,                Actress,1948,,        -------,,20,Najam Naqvi,David Abraham,Rehana,        -------
+602,                Actress Kyon Bani,1939,,Drama,6.2,5,G.R. Sethi,Padmadevi,Ashiq Hussain,P. Gaznavi
+603,                Ada... A Way of Life,2010,120,"Action, Crime, Drama",,20,Tanvir Ahmad,Ayaan Ahmad,Ayesha Jhulka,Rahul Roy
+604,                Adaa,1951,,Romance,3.6,49,Devendra Goel,Shekhar,Rehana,Gope
+605,                Adaab Dawood Ibrahim Bol Raha Hoon,,122,Drama,,20,Samir Karnik,Manoj Bajpayee,Sharib Hashmi,        -------
+606,                Adalat,1948,,        -------,,20,Vasant Joglekar,Baburao Pendharkar,Shalini,Salvi
+607,                Adalat,1958,139,"Drama, Musical, Romance",,20,Kalidas,Nargis,Pradeep Kumar,Pran
+608,                Adalat,1976,138,"Action, Drama, Family",6.9,36,Narendra Bedi,Amitabh Bachchan,Waheeda Rehman,Neetu Singh
+609,                Adalat,1943,,Crime,6.4,284,Ramchandra Thakur,        -------,        -------,        -------
+610,                Adam Ka Janam,1989,,Drama,,20,Sanjay,Supriya,        -------,        -------
+611,                Adamkhor,1955,,Action,5.5,6,Aakkoo,Habib,Kesari,Lalita Kumari
+612,                Adarsh Mahila,1937,,        -------,,20,Tara,        -------,        -------,        -------
+613,                Adha,1977,,        -------,,20,Prem Chopra,        -------,        -------,        -------
+614,                Adhar,1945,,        -------,,20,Pannalal Ghosh,Umakant,Kokila,Lala Yaqoob
+615,                Adharm,1992,,"Action, Crime, Drama",,20,Aziz Sejawal,Shatrughan Sinha,Shabana Azmi,Sanjay Dutt
+616,                Adharm,2006,,Action,5.1,66,Adeep Singh,Rahul Dev,Mayuri Kango,Rocky Khanna
+617,                Adhi Raat Ke Baad,1965,137,"Action, Drama, Mystery",5.3,11,Nanabhai Bhatt,Ashok Kumar,Ragini,Sailesh Kumar
+618,                Adhikar,1938,132,        -------,6.6,28,P.C. Barua,P.C. Barua,Jamuna,Pahadi Sanyal
+619,                Adhikar,1954,126,"Comedy, Drama, Romance",,20,Mohan Segal,Usha Kiran,Kishore Kumar,Yashodra Katju
+620,                Adhikar,1986,,"Drama, Family, Romance",6.7,13,Chitrayug,Vijay Sadanah,Rajesh Khanna,Tina Ambani
+621,                Adhikar,1971,,Drama,6.2,38,S.M. Sagar,Ashok Kumar,Nanda,Deb Mukherjee
+622,                Adhiktam,2020,45,"Action, Comedy",4.9,21,Prashast Singh,Prashast Singh,        -------,        -------
+623,                Adhipathi,2001,151,"Action, Drama",,20,Ravi Raja,Nagarjuna Akkineni,Ali,Mohan Babu
+624,                Adhoori Pyaas,2004,,Thriller,5.4,533,Smitha,Uda,        -------,        -------
+625,                Adhura,1995,,Drama,,20,Ashish Balram Nagpal,Kitu Gidwani,Irrfan Khan,Ashish Balram Nagpal
+626,                Adhura Aadmi,1982,,Action,,20,Amjad Khan,Kalpana Iyer,Amjad Khan,Narendra Nath
+627,                Adhura Badan,1990,,Thriller,,20,        -------,        -------,        -------,        -------
+628,                Adhura Sapna,2007,88,Drama,,20,Vimal Reddy,Tania Nazmeen Dean,Rajnel Prasad,Ratu Rakuita Tawake
+629,                Adhurada,1940,,        -------,4.7,11,Trilok Kapoor,        -------,        -------,        -------
+630,                Adhure Khwaab,1992,,Drama,,20,Sarbjeet Dhaliwal,Sarbjeet Dhaliwal,Rick Khalsi,Monica
+631,                Adhuri Dulhan,1995,,Romance,,20,Shabbir Kumar,        -------,        -------,        -------
+632,                Adhuri Hawas,2004,,Thriller,,20,Suresh Jain,Rimpal Balnegar,Reena Kapoor,        -------
+633,                Adhuri Kahani,1939,148,        -------,,20,Chaturbhuj Doshi,Durga Khote,Prithviraj Kapoor,Rose
+634,                Adhuri Suhagraat,2000,,Drama,,20,Naresh Gupta,Mohnish Bahl,Rakesh Bedi,Amita Nangia
+635,                Adhurs,2010,150,"Action, Comedy, Thriller",,20,V.V. Vinayak,N.T. Rama Rao Jr.,Nayanthara,Sheela Kaur
+636,                Adi Manav,1977,,Action,6.8,2393,N. Basavaraj,Kanaka Durga,Prabhakar,Mohan Rao
+637,                Adi Shankaracharya,1983,130,"Biography, Drama",,20,G.V. Iyer,Sarvadaman Banerjee,M.V. Narayana Rao,Manjunath Bhatt
+638,                Adi Shastra,1998,,Action,7.3,240,        -------,        -------,        -------,        -------
+639,                Adibhumi: Home Land,2015,121,Drama,,20,Satyabrata Dwibedy,        -------,        -------,        -------
+640,                Adil-E-Jahangir,1955,150,Drama,,20,G.P. Sippy,Pradeep Kumar,Meena Kumari,D.K. Sapru
+641,                Adipurush,2022,,"Action, Drama, History",5,0,Om Raut,Prabhas,Saif Ali Khan,Kriti Sanon
+642,                Adisaya Piravi,1990,145,"Action, Comedy, Fantasy",,20,S.P. Muthuraman,Rajinikanth,Chinnijayanth,Jai Ganesh
+643,                Adivasi Queen,1997,,"Adventure, Drama, Mystery",6.9,335,Yvonne Lal,Mahendra Kumar,Roja,Bindu
+644,                Adivasiyon Ka Jeevan Srot,1955,,Documentary,,0,Ritwik Ghatak,        -------,        -------,        -------
+645,                Adiyug,1978,106,Drama,,20,Tatineni Prasad,Saheen Aman,Ramesh Goyal,Mehndi Jamal
+646,                Adl-e-Jehangir,1934,,        -------,,20,K. Sardar,Pushpa,        -------,        -------
+647,                Admissions Open,2010,,"Comedy, Drama",,0,K.D. Satyam,Anupam Kher,Ashish Vidyarthi,Arshi
+648,                Admitted,2020,126,"Documentary, Biography",3.3,51,Ojaswwee Sharma,Dhananjay Chauhan,        -------,        -------
+649,                Adrashya,2020,,        -------,,20,Sabir Shaikh,        -------,        -------,        -------
+650,                Adrishya,2017,106,"Drama, Family, Horror",,20,Sandeep Chatterjee,Nishat Mallick,Archana Kotwal,Ravi Kumar
+651,                Adutha Varisu,1983,122,Drama,3.3,102,S.P. Muthuraman,Rajinikanth,Sridevi,Varalakshmi S.
+652,                Adventure Kids Hindi Film,2019,120,Adventure,5.5,76,Manoj Palrecha,Suvahhdan Angre,Neel Bakshi,Prachita Gujar
+653,                Adventures of Aladdin,1978,151,Adventure,6.6,12,Homi Wadia,Nazneen,Jayshree T.,Raza Murad
+654,                Adventures of Ali-Baba and the Forty Thieves,1980,153,"Action, Adventure, Family",4.7,0,Latif Faiziyev,Umesh Mehra,Dharmendra,Hema Malini
+655,                Adventures of Robin Hood and Bandits,1965,,Adventure,6.2,506,B.J. Patel,Parveen Choudhary,Shyam Kumar,Nilofer
+656,                Adventures of Tarzan,1985,135,"Action, Adventure, Comedy",,20,Babbar Subhash,Kimi Katkar,Dalip Tahil,Om Shivpuri
+657,                Adwait Sangeet,2011,82,"Documentary, Biography, Musical",4.6,140,Makarand Brahme,        -------,        -------,        -------
+658,                Ae Dil Hai Mushkil,2016,158,"Drama, Music, Musical",7.9,13,Karan Johar,Ranbir Kapoor,Aishwarya Rai Bachchan,Anushka Sharma
+659,                Ae Kaash Ke Hum,2021,,Romance,5.8,21661,Vishal Mishra,Vivaan Shah,Priya Singh,Sophia Singh
+660,                Ae phansaa,2008,,Comedy,,20,B.H. Tharun Kumar,Aryeman Ramsay,Anuj Sawhney,Tara Sharma
+661,                Aetbaar,2004,152,"Action, Drama, Musical",,20,Vikram Bhatt,Amitabh Bachchan,John Abraham,Bipasha Basu
+662,                Afghan Abla,1934,,        -------,4.6,1013,Jagatrai Pesumal Advani,Kamlabai Gokhale,Sultana,        -------
+663,                Afghan: in Search of a Home,,,Drama,,20,Radhika Rao,Vinay Sapru,Aditya Seal,Adnan Sami
+664,                Aflatoon,1997,153,"Action, Comedy, Crime",,20,Guddu Dhanoa,Akshay Kumar,Urmila Matondkar,Anupam Kher
+665,                Aflatoon,1937,,        -------,4.5,1261,Pesi Karani,Khalil,        -------,        -------
+666,                Aflatoon,1951,,        -------,,20,Jaswant Jhaveri,Master Bhagwan,        -------,        -------
+667,                Aflatoon,1961,,Action,,20,Basu Bhattacharya,Kamran,Krishna Kumari,Heera Sawant
+668,                Afra Tafri,2021,,Comedy,,20,Hadi Abrar,Govinda,Sunil Shetty,Gulshan Grover
+669,                Africa,1954,,Action,,20,K. Kant,Habib,Krishna Kumari,Baburao Pahelwan
+670,                Africa Mein Hind,1939,,        -------,,20,Hiren Bose,        -------,        -------,        -------
+671,                Africadalli Sheela,1986,134,"Adventure, Thriller",,20,Deepak Balraj Vij,Anand Balraj,Sahila Chaddha,B.S. Dwarakish
+672,                Afsana,1966,134,"Drama, Romance",6.6,18,Brij,Ashok Kumar,Pradeep Kumar,Padmini
+673,                Afsana,1951,168,"Drama, Family",6.5,12,B.R. Chopra,Ashok Kumar,Veena,Jeevan
+674,                Afsana Dilwalon Ka,2001,195,"Drama, Romance",7.8,57,J. Om Prakash,Aashish Kaul,Juni,Rahul Roy
+675,                Afsana Pyar Ka,1991,145,"Drama, Romance",3.6,1025,M.R. Shahjahan,Aamir Khan,Neelam Kothari,Deepak Tijori
+676,                Afsar,1950,121,"Comedy, Romance",5.9,783,Chetan Anand,Dev Anand,Suraiya,Ruma Guha Thakurta
+677,                After Marriage,2017,,Horror,7.1,19,Kritn Ajitesh,        -------,        -------,        -------
+678,                After the Last Lecture,,,Romance,,20,Chetan Singh,Hemwant Tiwari,Yashveer Choudhary,Rahul Sinha
+679,                After the Third Bell,2014,92,"Crime, Mystery",,20,Ajay Govind,Udayan Banerjee,Akanksha D. Sharma,Sukhesh Arora
+680,                Afzal,1933,,        -------,6.3,43,Mohan Dayaram Bhavnani,Ameena,Abdul Rehman Kabuli,Nissar
+681,                Agalvizhakku,1979,,Drama,,20,Selvaraj,        -------,        -------,        -------
+682,                Agam,,88,Drama,,20,Sumit Mishra,Tara-Alisha Berry,Rahul Bagga,Ashmith Kunder
+683,                Agar Aap Chahein,1992,,Family,,20,Mazahir Rahim,Makrand Deshpande,        -------,        -------
+684,                Agar Tum Na Hote,1983,161,"Drama, Family",,20,Lekh Tandon,Rajesh Khanna,Rekha,Raj Babbar
+685,                Agar... If,1977,,Drama,6.4,152,Esmayeel Shroff,Amol Palekar,Zarina Wahab,Kader Khan
+686,                Agathiyar,1972,153,"Adventure, Comedy, Drama",6.4,27,A.P. Subbaraav,T.S. Balaiah,J.P. Chandrababu,Devagi
+687,                Agent 009,1980,,Action,6.6,30,Bharat Kapoor,Padma Khanna,Vijendra Mittal,Rehana Sultan
+688,                Agent 123,1983,,Thriller,,20,Geethapriya,Baby Indira,Master Ram Krishna,Manjula
+689,                Agent 777,1988,,Action,,20,Satish Khurana,Raja Duggal,Pallavi Joshi,Vicky Kaushik
+690,                Agent Vinod,1977,139,"Action, Crime, Drama",,20,Deepak Bahry,Mahendra Sandhu,Asha Sachdev,Iftekhar
+691,                Agent Vinod,2012,157,"Action, Adventure, Thriller",5.7,84,Sriram Raghavan,Kareena Kapoor,Saif Ali Khan,Rajat Kapoor
+692,                Aggan: The Real Fire,1999,,Thriller,5.2,7210,Kavi Rajesh,        -------,        -------,        -------
+693,                Aggar: Passion Betrayal Terror,2007,,"Romance, Thriller",,20,Ananth Narayan Mahadevan,Tusshar Kapoor,Udita Goswami,Shreyas Talpade
+694,                Aghaat,1985,138,"Drama, Crime",4,281,Govind Nihalani,Om Puri,Bharat Gopy,Pankaj Kapur
+695,                Agla Mausam,1989,,Drama,7.1,120,Sagar Sarhadi,Pankaj Kapur,Supriya Pathak,        -------
+696,                Agnee,1988,153,"Action, Drama, Romance",,20,J. Om Prakash,Mithun Chakraborty,Chunky Panday,Amrita Singh
+697,                Agnee Morcha,1997,142,Action,5.1,29,Raju Chouhan,Aparajita,Birbal,Dharmendra
+698,                Agneekaal,1990,161,"Action, Crime, Drama",3.1,14,Abbas Alibhai Burmawalla,Mastan Alibhai Burmawalla,Masum Ali,Sadashiv Amrapurkar
+699,                Agneepath,1990,174,"Action, Crime, Drama",5.6,26,Mukul Anand,Amitabh Bachchan,Mithun Chakraborty,Madhavi
+700,                Agneepath,2012,174,"Action, Crime, Drama",7.7,8500,Karan Malhotra,Hrithik Roshan,Priyanka Chopra Jonas,Sanjay Dutt
+701,                Agni IPS,1997,137,Action,6.9,22895,Anand P. Raju,Saroja Devi B.,Saikumar,Ranjitha
+702,                Agni Jwala,2001,,Action,7.8,33,Vijayakanth,Isha Koppikar,Rahul Dev,Ramya Krishnan
+703,                Agni Pankh,2004,,"Action, Drama, Romance",,20,Sanjeev Puri,Jimmy Sheirgill,Sameer Dharmadhikari,Rahul Dev
+704,                Agni Pareeksha,1981,130,"Crime, Drama",4.5,108,Kamal Majumdar,Amol Palekar,Parikshit Sahni,Rameshwari
+705,                Agni Prem,1996,107,Action,6,0,Rukun,Tinnu Anand,Kishore Anand Bhanushali,Birbal
+706,                Agni Prem,2003,,Thriller,,20,Chandni Gupta,Junior Shakti Kapoor,Amit Pachori,Aman Sagar
+707,                Agni Rekha,1973,,Drama,,20,Mahesh Kaul,Sanjeev Kumar,Sharada,Sajjan
+708,                Agni Sakshi,1996,142,"Drama, Musical, Romance",7.3,0,Partho Ghosh,Jackie Shroff,Nana Patekar,Manisha Koirala
+709,                Agnichakra,1997,123,Action,6.1,684,Ketan Anand,Amit Suryavanshi,Naseeruddin Shah,Govinda
+710,                Agnidaah,1985,,Drama,3.6,53,Ravi Baswani,Neena Gupta,Anupam Kher,Karan Razdan
+711,                Agniputra,2000,140,Action,,0,Vijay Reddy,Asrani,Mithun Chakraborty,Pinky Chinoy
+712,                Agnivarsha: The Fire and the Rain,2002,126,"Drama, Fantasy, Romance",4.6,24,Arjun Sajnani,Jackie Shroff,Kumar Iyengar,Raveena Tandon
+713,                Agra,,,Drama,4.6,361,Kanu Behl,Mohit Agarwal,Priyanka Bose,Vibha Chhibber
+714,                Agra Road,1957,,"Comedy, Romance, Thriller",,20,Ravindra Dave,Shakila,Vijay Anand,Nanda
+715,                Agreement,1980,124,"Musical, Comedy, Drama",4.8,0,Anil Ganguly,Rekha,Utpal Dutt,Shailendra Singh
+716,                Agyaat,2009,130,"Drama, Horror, Mystery",6.2,0,Ram Gopal Varma,Nithiin,Priyanka Kothari,Rasika Dugal
+717,                Ahaan,2019,81,"Comedy, Drama",2.9,620,Nikhil Pherwani,Arif Zakaria,Niharika Singh,Abuli Mamaji
+718,                Aham Brahmasmi,2021,106,Action,7.2,213,Megastar Maharishi Aazaad,        -------,        -------,        -------
+719,                Ahankaar,1995,145,Drama,,0,Ashim S. Samanta,Mithun Chakraborty,Mamta Kulkarni,Prem Chopra
+720,                Ahankar,1999,75,        -------,5.9,53,Raja Mitra,Soumitra Chatterjee,Indrani Haldar,Rajesh Sharma
